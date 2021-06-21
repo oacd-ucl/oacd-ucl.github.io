@@ -1,34 +1,18 @@
 ---
 layout: page
-title: CMIP6 Data Hackathon
+title: Ocean, Atmosphere and Climate Dynamics Group
 menu_title: Home
 menu_icon: house-door
 ---
 
 {:.secondary}
-# 2–4 June 2021, in association with Bristol, Met Office, Exeter, Leeds & UCL
+# A research group based at University College London
 
-![]({% link assets/event/cmip6-data-hackathon-2021-photo.webp %})
+The ocean atmosphere climate dynamics group at University College London research is the important aspects of how the climate system works. It is led by Chris and David out of UCL geography. It combines research techniques at the cutting edge of the laboratory-based geoscience and computer modelling. It has worked on topics stretching from the equator to the pole and from millions of years ago to the coming centuries. We have particular expertise on the deep circulation of the North Atlantic and the Multi model ensembles of past climate change. 
 
-Scientists from the Universities of Bristol, Exeter and Leeds, and the Met
-Office hosted a three-day hackathon on **2–4 June 2021**, open to all UK
-researchers in the field, to produce cutting-edge research using [Climate Model
-Intercomparison Project 6 (CMIP6)
-data](https://esgf-index1.ceda.ac.uk/projects/cmip6-ceda/). We aim to showcase
-outputs from the hackathon at the upcoming [COP26](https://ukcop26.org/)
-delegation in November 2021, and through peer-reviewed publications.
-
-Researchers could sign up to [topics ranging from]({% link projects.md %})
-climate change to oceanography, biogeochemistry, and more. Teams were led by
-senior academics from a range of disciplines at
-[the partner universities]({% link about.md %}#the-met-office-academic-partnership),
-but participating researchers could include early career researchers[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career Researcher (ECR)?"}
-(including PhDs and Postdocs) from any UK academic institution.
-
-The event took place virtually, using a combination of **video conferencing**
-(Zoom) for meetings and seminars, and **discussion forums** (Slack) for ongoing
-comms. Data holding and analysis took place on [JASMIN](https://www.jasmin.ac.uk/),
-the UK's data analysis facility for environmental science, which also provides a
-copy of the CMIP6 data. Outputs were saved to [GitHub](https://github.com/cmip6moap).
-
-[faq]: {% link faq.md %}
+You can find out more about 
+- our science under the [research](./research.md) tab.
+- the scientists who are doing this under the [people](./people.md) tab
+- the instruments we use and the data we’ve created under the [facilities](./facilites.md) tab
+- our collaborations and outreach under the [other](./other.md) tab.
+- the teaching that we are involved with under the [teaching](./teaching.md) tab. We are heavily involved in UCL's [Climate Change MSc](https://www.geog.ucl.ac.uk/study/graduate-taught/msc-climate-change) programme and the [London NERC DTP](https://london-nerc-dtp.org/)
