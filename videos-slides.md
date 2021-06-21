@@ -1,7 +1,7 @@
 ---
-title: Hackathon videos and slides
-menu_title: Videos & slides
-menu_icon: film
+title: Teaching
+menu_title: Teaching
+menu_icon: clipboard-check
 ---
 
 ## Talks

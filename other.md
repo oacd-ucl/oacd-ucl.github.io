@@ -1,6 +1,6 @@
 ---
 title: Collaborations and Outreach
-menu_title: other
+menu_title: Other
 menu_icon: film
 ---
 
