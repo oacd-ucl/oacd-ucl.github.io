@@ -1,14 +1,12 @@
 ---
-title: OACD Group Code of Conduct
+title: Hackathon Code of Conduct
 menu_title: Code of Conduct
-permalink: /code-of-conduct/
 ---
 
 We are committed to providing a welcoming, friendly, supportive, safe and
-professional environment for all participants at its meetings, regardless of
-age, background, belief, disability, ethnicity, race, religion, gender,
-identity, national origin, sexual orientation or other protected
-characteristics.
+professional environment for all participants our events, regardless of age,
+background, belief, disability, ethnicity, race, religion, gender, identity,
+national origin, sexual orientation or other protected characteristics.
 
 This code of conduct applies before, during and after our events, and in all
 physical and virtual spaces.
@@ -49,9 +47,20 @@ physical and virtual spaces.
 * Violating the rules and regulations of the online platform (e.g. Zoom). 
 
 ## Reporting incidents
+
 If you believe someone is violating the code of conduct, please report this to
-the event organiser straight away, if you can. Alternatively, you may prefer to raise the unacceptable behaviour to an independent
-party, you can got through UCL's [Report and Support services][1]. These provide all UCL students and staff to both report behaviour anonymously, or contact an advisor for support. 
+the event organiser straight away, if you can. You can also use the Jean Golding
+Institute [Code of Conduct Incident Report
+Form][1].
+The form will be reviewed by the Director and Manager and any action to address
+and/or resolve the issue will be communicated within one week.
+
+However, if you prefer to raise the unacceptable behaviour to an independent
+party, you can contact one of the University of Bristol [Acceptable Behaviour
+Supporters][2]
+who are volunteers trained to provide an informal advisory service to staff
+experiencing unacceptable behaviour, bullying or harassment at work. They can
+also support staff who are facing allegations about their own behaviour. 
 
 ## Resolution of incidents
 
@@ -64,4 +73,5 @@ actions we take could include:
 * Removal from mailing list or positions on committees or working groups.
 
 
-[1]: https://report-support.ucl.ac.uk/
+[1]: https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG8HSjJO_xV9IvETmnVS-rt1UOExST1JSRTdQSENQODBUQVQzUE1JTUI3WS4u
+[2]: https://www.bristol.ac.uk/inclusion/stand-up-speak-out/acceptable-behaviour-supporters/
