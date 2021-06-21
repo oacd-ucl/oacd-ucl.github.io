@@ -1,16 +1,8 @@
 ---
-title: About the Hackathon
-menu_title: About
+title: Group Members
+menu_title: People
 menu_icon: globe2
 ---
-
-The MOAP CMIP6 Hackathon is a 3-day hackathon event, organised by the University
-of Bristol's [Jean Golding Institute](https://www.bristol.ac.uk/golding/) and
-[Cabot Institute](https://www.bristol.ac.uk/cabot/). Over the course of the
-event, teams of academic researchers from across the UK will work on research
-questions set by the MOAP partners related to earth-system science and [CMIP6
-data](https://esgf-index1.ceda.ac.uk/projects/cmip6-ceda/). We encourage
-contributions from early career researchers, including PhDs and Postdocs.
 
 ## The organising team
 
@@ -21,21 +13,20 @@ To contact us about the hackathon, please email our dedicated mailbox:
 <table class="team-list">
     <tr>
         <td>
-            <img alt="Dann Mitchell" src="{% link assets/team/Dann.jpg %}">
+            <img alt="Chris" src="http://github-pages.ucl.ac.uk/hacking-the-climate/assets/team/Chris.jpg">
         </td>
         <td>
-            <strong>Dr Dann M Mitchell</strong>
+            <strong>Dr Chris Brierley</strong>
             <span class="profile-links">
-                <a title="Profile &amp; contact" href="https://research-information.bris.ac.uk/en/persons/dann-m-mitchell"><i class="bi bi-person-lines-fill"></i></a>
-                <a title="Website" href="https://www.climatebristol.org/"><i class="bi bi-globe2"></i></a>
-                <a title="GitHub" href="https://github.com/dmm17/"><i class="bi bi-github"></i></a>
-                <a title="Twitter" href="https://twitter.com/ClimateDann"><i class="bi bi-twitter"></i></a>
+                <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/academic-staff/academic-staff/chris-brierley"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="Website" href="https://www.past2future.org/"><i class="bi bi-globe2"></i></a>
+                <a title="GitHub" href="https://github.com/chrisbrierley/"><i class="bi bi-github"></i></a>
+                <a title="Twitter" href="https://twitter.com/cmbrierley"><i class="bi bi-twitter"></i></a>
             </span>
-            <br>University of Bristol
-            <br>Met Office Joint Chair in Climate Hazards, School of Geographical Sciences
+            <br>Department of Geography, University College London
+            <br>Associate Professor in Climate Science 
         </td>
-    </tr>
-    <tr>
+    </tr>    <tr>
         <td>
             <img alt="Dr Emma Stone" src="{% link assets/team/Emma.jpg %}">
         </td>
