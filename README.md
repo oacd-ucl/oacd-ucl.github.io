@@ -1,4 +1,2 @@
-# CMIP6 hackathon
-## in association with the Met Office & University of Bristol
-
-This is the repository for the public-facing hackathon website.
+# oacd-ucl.github.io
+This is code underpinning the website for the Ocean, Atmosphere, Climate Dynamics group at UCL
