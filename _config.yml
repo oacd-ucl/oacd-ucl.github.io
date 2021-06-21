@@ -1,12 +1,8 @@
-title: OACD Group at UCL
-menu_title: OACD @ UCL
+title: Ocean, Atmosphere & Climate Dynamics
+menu_title: Ocean, Atmosphere and Climate <span class="hide-very-narrow">Dynamics</span><br><small><span class="hide-very-narrow">University</span> College London</small>
 author: Dept. of Geography, University College London
 description:
-  The MOAP CMIP6 Hackathon is a 3-day hackathon event, organised by the
-  University of Bristol’s Jean Golding Institute and Cabot Institute. Over the
-  course of the event, teams of academic researchers from across the UK will
-  work on research questions set by the MOAP partners related to earth-system
-  science and CMIP6 data.
+  The Ocean, Atmosphere and Climate Dynamics research group at UCL
 url: "https://oacd-ucl.github.io"
 github_username: oacd-ucl 
 theme: minima
