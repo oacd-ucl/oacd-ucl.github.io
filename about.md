@@ -6,10 +6,6 @@ menu_icon: globe2
 
 ## The organising team
 
-{:.lead}
-To contact us about the hackathon, please email our dedicated mailbox:
-<cmip6moap-hackathonevent2021@bristol.ac.uk>
-
 <table class="team-list">
     <tr>
         <td>
@@ -31,12 +27,12 @@ To contact us about the hackathon, please email our dedicated mailbox:
             <img alt="Dr Emma Stone" src="{% link assets/team/Emma.jpg %}">
         </td>
         <td>
-            <strong>Dr Emma Stone</strong>
+            <strong>Dr David Thornalley</strong>
             <span class="profile-links">
                 <a title="Profile &amp; contact" href="https://www.bris.ac.uk/contact/person/getDetails?personKey=rn9rLhoJMlvvds3wexjHj5ep0mqebQ"><i class="bi bi-person-lines-fill"></i></a>
             </span>
-            <br>University of Bristol
-            <br>Met Office Academic Partner Project Manager, School of Geographical Sciences
+            <br>Department of Geography, University College London
+            <br>Palaeoceanography and Palaeoclimatology
         </td>
     </tr>
     <tr>
