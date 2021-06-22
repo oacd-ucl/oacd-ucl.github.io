@@ -37,20 +37,27 @@ menu_icon: globe2
     </tr>
 </table>
 
-## The Met Office Academic Partnership
+## Staff
 
 {:.lead}
-A cluster of research excellence that brings together the Met Office and
-leading UK Universities in weather and climate science.
+Charlotte, Eirini, David, Clair
 
-The Met Office Academic Partnership is a cluster of research excellence that
-brings together the Met Office and institutions who are among the leading UK
-Universities in weather and climate science
-([Bristol](https://www.bristol.ac.uk), [Exeter](https://www.exeter.ac.uk),
-[Leeds](https://www.leeds.ac.uk), [Oxford](https://www.ox.ac.uk),
-[Reading](https://www.reading.ac.uk) and [UCL](https://www.ucl.ac.uk)) through a
-formal collaboration to advance the science and skill of weather and climate
-prediction.
+## PhD Students
 
-[Read more](https://www.metoffice.gov.uk/research/approach/collaboration/partnership)
-about MOAP.
+{:.lead}
+Jack, Alice, Anni, Zhiyi, Paul, Tom, Rosario
+
+## Occasional Members
+
+{:.lead}
+Helen, Heather, Pete
+
+## Former PhD students 
+
+{:.lead}
+Alex, Damián, Rehemat, Maryam
+
+## Some MSc Alumni
+
+{:.lead}
+Jarmo, Sophie, Francesco, George Jordan, Emma, Svetlana, Robbie
