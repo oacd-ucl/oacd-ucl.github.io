@@ -23,14 +23,15 @@ permalink: /people/
             <br>Department of Geography, University College London
             <br>Associate Professor in Climate Science 
         </td>
-    </tr>    <tr>
+    </tr>
+    <tr>
         <td>
             <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
         </td>
         <td>
             <strong>Dr David Thornalley</strong>
             <span class="profile-links">
-                <a title="Profile &amp; contact" href="https://www.bris.ac.uk/contact/person/getDetails?personKey=rn9rLhoJMlvvds3wexjHj5ep0mqebQ"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/academic-staff/academic-staff/david-thornalley"><i class="bi bi-person-lines-fill"></i></a>
             </span>
             <br>Department of Geography, University College London
             <br>Palaeoceanography and Palaeoclimatology
@@ -46,7 +47,133 @@ Charlotte, Eirini, David, Clair
 ## PhD Students
 
 {:.lead}
-Jack, Alice, Anni, Zhiyi, Paul, Tom, Rosario
+
+Jack, Alice, Anni, Zhiyi, Paul, Tom, Rosario, Dan
+
+
+<table class="team-list">
+    <tr>
+        <td>
+            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+        </td>
+        <td>
+            <strong>Alice Carter-Champion</strong>
+            <span class="profile-links">
+                <!-- <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/keelt/"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a>
+                <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a> -->
+            </span>
+            <br>Department of Geography, University College London
+            <br>PhD student
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+        </td>
+        <td>
+            <strong>Zhiyi Jiang</strong>
+            <span class="profile-links">
+                <!-- <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/keelt/"><i class="bi bi-person-lines-fill"></i></a> -->
+                <!-- <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a>
+                <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a> -->
+            </span>
+            <br>Department of Geography, University College London
+            <br>PhD student
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+        </td>
+        <td>
+            <strong>Tom Keel</strong>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/keelt/"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a>
+                <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a>
+                <a title="Email" href="mailto:thomas.keel.18@ucl.ac.uk"><i class="bi bi-envelope"></i></a>
+            </span>
+            <br>Department of Geography, University College London
+            <br>PhD student
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+        </td>
+        <td>
+            <strong>Paul Minton</strong>
+            <span class="profile-links">
+                <!-- <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/keelt/"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a>
+                <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a> -->
+            </span>
+            <br>Department of Geography, University College London
+            <br>PhD student
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+        </td>
+        <td>
+            <strong>Daniel Parkes</strong>
+            <span class="profile-links">
+                <!-- <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/keelt/"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a>
+                <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a> -->
+            </span>
+            <br>Department of Geography, University College London
+            <br>PhD student
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+        </td>
+        <td>
+            <strong>Rosario</strong>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/whartonj/"><i class="bi bi-person-lines-fill"></i></a>
+                <!-- <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a> -->
+                <!-- <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a> -->
+            </span>
+            <br>Department of Geography, University College London
+            <br>PhD student
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+        </td>
+        <td>
+            <strong>Jack Warton</strong>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/whartonj/"><i class="bi bi-person-lines-fill"></i></a>
+                <!-- <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a> -->
+                <!-- <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a> -->
+            </span>
+            <br>Department of Geography, University College London
+            <br>PhD student
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+        </td>
+        <td>
+            <strong>Anni Zhao</strong>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/whartonj/"><i class="bi bi-person-lines-fill"></i></a>
+                <!-- <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a> -->
+                <!-- <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a> -->
+            </span>
+            <br>Department of Geography, University College London
+            <br>PhD student
+        </td>
+    </tr>
+</table>
 
 ## Occasional Members
 
