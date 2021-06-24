@@ -94,8 +94,8 @@ Jack, Alice, Anni, Zhiyi, Paul, Tom, Rosario, Dan
                 <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a>
                 <a title="Email" href="mailto:thomas.keel.18@ucl.ac.uk"><i class="bi bi-envelope"></i></a>
             </span>
-            <br>Department of Geography, University College London
-            <br>PhD student
+            <br>Definition and changes of jet-streams in a warming climate 
+            <br>Dept of Geography, University College London (since Oct-2020)
         </td>
     </tr>
     <tr>
