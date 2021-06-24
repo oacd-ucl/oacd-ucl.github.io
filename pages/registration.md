@@ -59,4 +59,4 @@ The closing date for the applications is 16 April 2021. If you have any queries,
 or have any difficulties completing the registration form, please email our
 dedicated mailbox: <cmip6moap-hackathonevent2021@bristol.ac.uk>.
 
-[faq]: {% link faq.md %}
+[faq]: {% link pages/faq.md %}
