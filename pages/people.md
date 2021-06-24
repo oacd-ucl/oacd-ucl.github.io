@@ -95,7 +95,7 @@ Jack, Alice, Anni, Zhiyi, Paul, Tom, Rosario, Dan
                 <a title="Email" href="mailto:thomas.keel.18@ucl.ac.uk"><i class="bi bi-envelope"></i></a>
             </span>
             <br>Definition and changes of jet-streams in a warming climate 
-            <br>Dept of Geography, University College London (since Oct-2020)
+            <br>Dept of Geography, University College London (since Jan-2021)
         </td>
     </tr>
     <tr>
