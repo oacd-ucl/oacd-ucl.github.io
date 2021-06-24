@@ -135,7 +135,7 @@ Jack, Alice, Anni, Zhiyi, Paul, Tom, Rosario, Dan
         <td>
             <strong>Rosario</strong>
             <span class="profile-links">
-                <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/whartonj/"><i class="bi bi-person-lines-fill"></i></a>
+                <!-- <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/whartonj/"><i class="bi bi-person-lines-fill"></i></a> -->
                 <!-- <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a> -->
                 <!-- <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a> -->
             </span>
@@ -165,7 +165,7 @@ Jack, Alice, Anni, Zhiyi, Paul, Tom, Rosario, Dan
         <td>
             <strong>Anni Zhao</strong>
             <span class="profile-links">
-                <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/whartonj/"><i class="bi bi-person-lines-fill"></i></a>
+                <!-- <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/whartonj/"><i class="bi bi-person-lines-fill"></i></a> -->
                 <!-- <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a> -->
                 <!-- <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a> -->
             </span>
