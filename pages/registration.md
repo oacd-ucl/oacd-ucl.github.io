@@ -2,6 +2,7 @@
 title: Hackathon registration
 menu_title: Registration
 menu_icon: clipboard-check
+permalink: /registration/
 ---
 
 {:.lead}

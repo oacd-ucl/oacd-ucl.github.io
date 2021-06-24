@@ -113,5 +113,5 @@ on each project including the project leads.
     `______________________________`  
 
 15. I agree to abide by the hackathon code of conduct  
-    *https://cmip6moap.github.io/pages/code-of-conduct/ (opens in a new tab/window)*  
+    *https://cmip6moap.github.io/code-of-conduct/ (opens in a new tab/window)*  
     `[x]` I agree  

@@ -1,5 +1,6 @@
 ---
 title: Frequently asked questions
+permalink: /faq/
 ---
 
 ## What do we mean by an Early Career Researcher (ECR)?

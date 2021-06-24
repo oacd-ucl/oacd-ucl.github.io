@@ -2,6 +2,7 @@
 title: Group Members
 menu_title: People
 menu_icon: globe2
+permalink: /about/
 ---
 
 ## The organising team
