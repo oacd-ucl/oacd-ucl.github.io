@@ -42,7 +42,7 @@ delegation in November, and through peer-reviewed publications.
 Researchers can sign up to [topics ranging from]({% link pages/projects.md %}) climate
 change to oceanography, biogeochemistry, and more. Teams will be led by senior
 academics from a range of disciplines at [the partner universities]({% link
-pages/about.md %}#the-met-office-academic-partnership), but participating researchers
+pages/people.md %}#the-met-office-academic-partnership), but participating researchers
 can be from any UK academic institution. [This opportunity]({% link
 pages/registration.md %}) is open to early career
 researchers[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career

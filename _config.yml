@@ -8,7 +8,7 @@ github_username: oacd-ucl
 theme: minima
 header_pages:
   - pages/projects.md
-  - pages/about.md
+  - pages/people.md
   - pages/resources.md
   - pages/teaching.md
   - pages/other.md
