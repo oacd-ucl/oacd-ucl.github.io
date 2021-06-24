@@ -14,5 +14,5 @@ You can find out more about
 - our science under the [research](./projects) tab.
 - the scientists who are doing this under the [people](./people) tab
 - the instruments we use and the data we’ve created under the [resources](./resources) tab
-- our collaborations and outreach under the [other](./other) tab.
 - the teaching that we are involved with under the [teaching](./teaching) tab. We are heavily involved in UCL's [Climate Change MSc](https://www.geog.ucl.ac.uk/study/graduate-taught/msc-climate-change) programme and the [London NERC DTP](https://london-nerc-dtp.org/)
+- our collaborations and outreach under the [other](./other) tab.
