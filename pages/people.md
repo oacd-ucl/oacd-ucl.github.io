@@ -69,22 +69,20 @@ Jack, Alice, Anni, Zhiyi, Paul, Tom, Rosario, Dan
     </tr>
     <tr>
         <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+            <img alt="ZhiyiJ" src="{% link assets/team/Zhiyi.jpg %}">
         </td>
         <td>
             <strong>Zhiyi Jiang</strong>
             <span class="profile-links">
-                <!-- <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/keelt/"><i class="bi bi-person-lines-fill"></i></a> -->
-                <!-- <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a>
-                <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a> -->
+                <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/research-students/zhiyi-jiang/"><i class="bi bi-person-lines-fill"></i></a>
             </span>
-            <br>Department of Geography, University College London
-            <br>PhD student
+            <br>The Atlantic Meridional Overturning Circulation simulated during interglacials and its impact on climate
+            <br>Department of Geography, University College London (sicne Sep-2019)
         </td>
     </tr>
     <tr>
         <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+            <img alt="ThomasK" src="{% link assets/team/ThomasK.jpg %}">
         </td>
         <td>
             <strong>Tom Keel</strong>
@@ -95,7 +93,7 @@ Jack, Alice, Anni, Zhiyi, Paul, Tom, Rosario, Dan
                 <a title="Email" href="mailto:thomas.keel.18@ucl.ac.uk"><i class="bi bi-envelope"></i></a>
             </span>
             <br>Definition and changes of jet-streams in a warming climate 
-            <br>Dept of Geography, University College London (since Jan-2021)
+            <br>Dept of Geography, University College London (since Mar-2021)
         </td>
     </tr>
     <tr>
@@ -115,17 +113,17 @@ Jack, Alice, Anni, Zhiyi, Paul, Tom, Rosario, Dan
     </tr>
     <tr>
         <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+            <img alt="DanielP" src="{% link assets/team/DanielP.jpg %}">
         </td>
         <td>
             <strong>Daniel Parkes</strong>
             <span class="profile-links">
-                <!-- <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/keelt/"><i class="bi bi-person-lines-fill"></i></a>
-                <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a>
-                <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a> -->
+                <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/parkesd/"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="Twitter" href="https://twitter.com/Quat_dan"><i class="bi bi-twitter"></i></a>
+                <a title="Email" href="mailto:daniel.parkes@rhul.ac.uk"><i class="bi bi-envelope"></i></a>
             </span>
-            <br>Department of Geography, University College London
-            <br>PhD student
+            <br>On the cause and structure of Abrupt climatic events in MIS 11 c
+            <br>Department of Geography, Royal Holloway University of London / Department of Geography, University College London (since Mar-20)
         </td>
     </tr>
     <tr>
