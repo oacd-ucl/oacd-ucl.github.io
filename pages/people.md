@@ -77,7 +77,7 @@ Jack, Alice, Anni, Zhiyi, Paul, Tom, Rosario, Dan
                 <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/research-students/zhiyi-jiang/"><i class="bi bi-person-lines-fill"></i></a>
             </span>
             <br>The Atlantic Meridional Overturning Circulation simulated during interglacials and its impact on climate
-            <br>Department of Geography, University College London (sicne Sep-2019)
+            <br>Department of Geography, University College London (since Sep-2019)
         </td>
     </tr>
     <tr>
