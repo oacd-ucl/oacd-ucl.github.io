@@ -123,7 +123,7 @@ Jack, Alice, Anni, Zhiyi, Paul, Tom, Rosario, Dan
                 <a title="Email" href="mailto:daniel.parkes@rhul.ac.uk"><i class="bi bi-envelope"></i></a>
             </span>
             <br>On the cause and structure of Abrupt climatic events in MIS 11 c
-            <br>Department of Geography, Royal Holloway University of London / Department of Geography, University College London (since Mar-20)
+            <br>Department of Geography, Royal Holloway University of London / Department of Geography, University College London (since Mar-2020)
         </td>
     </tr>
     <tr>
