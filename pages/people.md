@@ -54,17 +54,17 @@ Jack, Alice, Anni, Zhiyi, Paul, Tom, Rosario, Dan
 <table class="team-list">
     <tr>
         <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+            <img alt="" src="{% link assets/team/AliceCC.jpg %}">
         </td>
         <td>
             <strong>Alice Carter-Champion</strong>
             <span class="profile-links">
-                <!-- <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/keelt/"><i class="bi bi-person-lines-fill"></i></a>
-                <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a>
-                <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a> -->
+                <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/carterchampiona/"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="Twitter" href="https://twitter.com/ACarter_Champs"><i class="bi bi-twitter"></i></a>
+                <a title="Email" href="mailto:Alice.Carter-Champion.16@ucl.ac.uk"><i class="bi bi-envelope"></i></a>
             </span>
-            <br>Department of Geography, University College London
-            <br>PhD student
+            <br> Investigating climatic variability during the Younger Dryas period in the North Atlantic region, using marine and terrestrial sediment archives and tephrochronology.
+            <br> Centre for Quaternary Research, Royal Holloway, University of London / Department of Geography, University College London (since April-2017)  
         </td>
     </tr>
     <tr>
@@ -75,6 +75,7 @@ Jack, Alice, Anni, Zhiyi, Paul, Tom, Rosario, Dan
             <strong>Zhiyi Jiang</strong>
             <span class="profile-links">
                 <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/research-students/zhiyi-jiang/"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="Email" href="mailto:z.jiang.17@ucl.ac.uk"><i class="bi bi-envelope"></i></a>
             </span>
             <br>The Atlantic Meridional Overturning Circulation simulated during interglacials and its impact on climate
             <br>Department of Geography, University College London (since Sep-2019)
