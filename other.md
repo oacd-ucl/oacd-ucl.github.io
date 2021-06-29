@@ -2,7 +2,6 @@
 title: Collaborations and Outreach
 menu_title: Other
 menu_icon: film
-permalink: /other/
 ---
 
 ## Media appearances
