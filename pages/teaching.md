@@ -2,6 +2,7 @@
 title: Teaching
 menu_title: Teaching
 menu_icon: clipboard-check
+permalink: /teaching/
 ---
 
 ## Talks

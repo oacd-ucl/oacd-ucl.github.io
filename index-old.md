@@ -15,7 +15,7 @@ menu_icon: house-door
         <dd>
             Applications open for participants<br>
             {% if site.registration_status == 'open' %}
-                <a href="{% link registration.md %}" class="btn">Register now</a>
+                <a href="{% link pages/registration.md %}" class="btn">Register now</a>
             {% elsif site.registration_status == 'closed' %}
                 <a class="btn disabled">Registration has closed</a>
             {% elsif site.registration_status == 'soon' %}
@@ -39,12 +39,12 @@ data](https://esgf-index1.ceda.ac.uk/projects/cmip6-ceda/). We aim to showcase
 outputs from the hackathon at the upcoming [COP26](https://ukcop26.org/)
 delegation in November, and through peer-reviewed publications.
 
-Researchers can sign up to [topics ranging from]({% link projects.md %}) climate
+Researchers can sign up to [topics ranging from]({% link pages/projects.md %}) climate
 change to oceanography, biogeochemistry, and more. Teams will be led by senior
 academics from a range of disciplines at [the partner universities]({% link
-about.md %}#the-met-office-academic-partnership), but participating researchers
+pages/people.md %}#the-met-office-academic-partnership), but participating researchers
 can be from any UK academic institution. [This opportunity]({% link
-registration.md %}) is open to early career
+pages/registration.md %}) is open to early career
 researchers[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career
 Researcher (ECR)?"}.
 
@@ -67,4 +67,4 @@ By the end of the event, we hope to have two or three core figures per research
 question, that show new insight into the field, using CMIP6 data. The figures
 will form the basis of material for COP26, and for peer-reviewed publication.
 
-[faq]: {% link faq.md %}
+[faq]: {% link pages/faq.md %}

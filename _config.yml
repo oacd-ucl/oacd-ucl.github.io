@@ -7,11 +7,11 @@ url: "https://oacd-ucl.github.io"
 github_username: oacd-ucl 
 theme: minima
 header_pages:
-  - projects.md
-  - about.md
-  - resources.md
-  - teaching.md
-  - other.md
+  - pages/projects.md
+  - pages/people.md
+  - pages/resources.md
+  - pages/teaching.md
+  - pages/other.md
 
 # Remove ".html" from default permalinks
 permalink: pretty

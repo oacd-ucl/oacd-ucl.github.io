@@ -2,6 +2,7 @@
 title: Hackathon agenda
 menu_title: Agenda
 menu_icon: clock
+permalink: /agenda/
 ---
 
 ## Day 1
