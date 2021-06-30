@@ -20,11 +20,10 @@ permalink: /people/
                 <a title="GitHub" href="https://github.com/chrisbrierley/"><i class="bi bi-github"></i></a>
                 <a title="Twitter" href="https://twitter.com/cmbrierley"><i class="bi bi-twitter"></i></a>
             </span>
-            <br>Department of Geography, University College London
             <br>Associate Professor in Climate Science 
+            <br>Dept of Geography, University College London
         </td>
-    </tr>
-    <tr>
+    </tr>    <tr>
         <td>
             <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
         </td>
@@ -33,8 +32,8 @@ permalink: /people/
             <span class="profile-links">
                 <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/academic-staff/academic-staff/david-thornalley"><i class="bi bi-person-lines-fill"></i></a>
             </span>
-            <br>Department of Geography, University College London
-            <br>Palaeoceanography and Palaeoclimatology
+            <br>Associate Professor in Palaeoceanography and Palaeoclimatology
+            <br>Dept of Geography, University College London
         </td>
     </tr>
 </table>
