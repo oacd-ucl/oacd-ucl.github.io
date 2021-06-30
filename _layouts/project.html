@@ -11,22 +11,22 @@ layout: default
     
     <div class="aside authors">
       <dl>
-        {% if page.pis %}
-        <dt>Project leads</dt>
+        {% if page.peeps %}
+        <dt>Group Members</dt>
         <dd>
           <ul>
-            {% for person in page.pis %}
+            {% for person in page.peeps %}
             <li>{{ person }}</li>
             {% endfor %}
           </ul>
         </dd>
         {% endif %}
         
-        {% if page.contributors %}
-        <dt>Contributors</dt>
+        {% if page.collaborators %}
+        <dt>Collaborators/dt>
         <dd>
           <ul>
-            {% for person in page.contributors %}
+            {% for person in page.collaborators %}
             <li>{{ person }}</li>
             {% endfor %}
           </ul>
@@ -43,18 +43,19 @@ layout: default
     </div>
   </header>
   
-  <div class="post-content">
-    <div class="video video-project video-coming-soon">
-      <!--<a href="https://www.youtube.com/watch?v={TBC}&t={{ page.video_time }}s" title="Play video">-->
-        <div class="video-container">
-          <img alt="{{ page.title }}" src="/assets/event/{{ page.video_thumbnail }}.webp">
-          <!--<span class="play-button bi bi-play-fill"></span>-->
-        </div>
-      <!--</a>-->
+  {% if page.github %}
+    <div class="post-content">
+      <div class="video video-project video-coming-soon">
+        <!--<a href="https://www.youtube.com/watch?v={TBC}&t={{ page.video_time }}s" title="Play video">-->
+          <div class="video-container">
+            <img alt="{{ page.title }}" src="/assets/event/{{ page.video_thumbnail }}.webp">
+            <!--<span class="play-button bi bi-play-fill"></span>-->
+          </div>
+          <!--</a>-->
+      </div>
+      {{ content }}
     </div>
-
-    {{ content }}
-  </div>
+  {% endif %}
     
   <p><a href="{% link pages/projects.md %}">← Back to project list</a></p>
 
