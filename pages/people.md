@@ -53,6 +53,21 @@ Jack, Alice, Anni, Zhiyi, Paul, Tom, Rosario, Dan
 <table class="team-list">
     <tr>
         <td>
+            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+        </td>
+        <td>
+            <strong>Rosario Ang</strong>
+            <span class="profile-links">
+                <!-- <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/whartonj/"><i class="bi bi-person-lines-fill"></i></a> -->
+                <!-- <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a> -->
+                <!-- <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a> -->
+            </span>
+            <br>Department of Geography, University College London
+            <br>PhD student
+        </td>
+    </tr>
+    <tr>
+        <td>
             <img alt="" src="{% link assets/team/AliceCC.jpg %}">
         </td>
         <td>
@@ -124,21 +139,6 @@ Jack, Alice, Anni, Zhiyi, Paul, Tom, Rosario, Dan
             </span>
             <br>On the cause and structure of Abrupt climatic events in MIS 11 c
             <br>Department of Geography, Royal Holloway University of London / Department of Geography, University College London (since Mar-2020)
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
-        </td>
-        <td>
-            <strong>Rosario</strong>
-            <span class="profile-links">
-                <!-- <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/whartonj/"><i class="bi bi-person-lines-fill"></i></a> -->
-                <!-- <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a> -->
-                <!-- <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a> -->
-            </span>
-            <br>Department of Geography, University College London
-            <br>PhD student
         </td>
     </tr>
     <tr>
