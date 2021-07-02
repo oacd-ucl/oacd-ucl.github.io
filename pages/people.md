@@ -158,17 +158,16 @@ Jack, Alice, Anni, Zhiyi, Paul, Tom, Rosario, Dan
     </tr>
     <tr>
         <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+            <img alt="Anni" src="{% link assets/team/Anni.jpg %}">
         </td>
         <td>
             <strong>Anni Zhao</strong>
             <span class="profile-links">
-                <!-- <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/whartonj/"><i class="bi bi-person-lines-fill"></i></a> -->
-                <!-- <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a> -->
-                <!-- <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a> -->
+                <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/research-students/anni-zhao"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="GitHub" href="https://github.com/annizhao1994/"><i class="bi bi-github"></i></a>
             </span>
-            <br>Department of Geography, University College London
-            <br>PhD student
+            <br>Palaeoclimate modelling of monsoons during past warm periods 
+            <br>Department of Geography, University College London (since Nov-2017)
         </td>
     </tr>
 </table>
