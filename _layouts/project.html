@@ -54,6 +54,8 @@ layout: default
       </div>
       {{ content }}
     </div>
+  {% else %}
+    {{ content }}
   {% endif %}
     
   <p><a href="{% link pages/projects.md %}">← Back to project list</a></p>
