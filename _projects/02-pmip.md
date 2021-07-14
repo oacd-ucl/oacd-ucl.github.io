@@ -26,5 +26,5 @@ Our group hosted a workshop at UCL to kick-off a PMIP Variability Working Group 
 
 - Brierley, C. M., Zhao, A., Harrison, S. P., Braconnot, P., Williams, C. J. R., Thornalley, D. J. R., et al. (2020). Large-scale features and evaluation of the PMIP4-CMIP6 *midHolocene* simulations. Climate of the Past, 16(5), 1847-1872. <http://doi.org/10.5194/cp-16-1847-2020>
 - Brown, J. R., Brierley, C. M., An, S. I., Guarino, M. V., Stevenson, S., Williams, C. J. R., . . . Zheng, W. (2020). Comparison of past and future simulations of ENSO in CMIP5/PMIP3 and CMIP6/PMIP4 models. Climate of the Past, 16(5), 1777-1805. <http://doi.org/10.5194/cp-16-1777-2020>
-- Otto-Bliesner, B. L., Brady, E. C., Zhao, A., Brierley, C. M., Axford, Y., Capron, E., … Zheng, W. (2020). Large-scale features of last interglacial climate: results from evaluating the *lig127k* simulations for CMIP6-PMIP4. Climate of the Past, in press. <https://doi.org/10.5194/cp-17-63-2021>
+- Otto-Bliesner, B. L., Brady, E. C., Zhao, A., Brierley, C. M., Axford, Y., Capron, E., … Zheng, W. (2020). Large-scale features of last interglacial climate: results from evaluating the *lig127k* simulations for CMIP6-PMIP4. Climate of the Past, 17, 63–94,. <https://doi.org/10.5194/cp-17-63-2021>
 
