@@ -5,7 +5,7 @@ menu_icon: globe2
 permalink: /people/
 ---
 
-## The organising team
+## Staff
 
 <table class="team-list">
     <tr>
@@ -23,7 +23,48 @@ permalink: /people/
             <br>Associate Professor in Climate Science 
             <br>Dept of Geography, University College London
         </td>
-    </tr>    <tr>
+    </tr>
+    <tr>
+        <td>
+            <img alt="DavidF" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+        </td>
+        <td>
+            <strong>David Fairman</strong>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/professional-services-staff/professional-services-staff/david-fairman"><i class="bi bi-person-lines-fill"></i></a>
+            </span>
+            <br>Research Technician
+            <br>Dept of Geography, University College London
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+        </td>
+        <td>
+            <strong>Dr Charlotte O'Brien</strong>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/research-staff/charlotte-obrien"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="Twitter" href="https://twitter.com/charlyob"><i class="bi bi-twitter"></i></a>
+            </span>
+            <br>Research Associate
+            <br>Dept of Geography, University College London
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+        </td>
+        <td>
+            <strong>Eirini Papachristopoulou</strong>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/professional-services-staff/professional-services-staff/eirini-papachristopoulou"><i class="bi bi-person-lines-fill"></i></a>
+            </span>
+            <br>Research Technician
+            <br>Dept of Geography, University College London
+        </td>
+    </tr>
+    <tr>
         <td>
             <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
         </td>
@@ -38,17 +79,7 @@ permalink: /people/
     </tr>
 </table>
 
-## Staff
-
-{:.lead}
-Charlotte, Eirini, David, Clair
-
 ## PhD Students
-
-{:.lead}
-
-Jack, Alice, Anni, Zhiyi, Paul, Tom, Rosario, Dan
-
 
 <table class="team-list">
     <tr>
