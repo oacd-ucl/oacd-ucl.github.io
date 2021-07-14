@@ -23,7 +23,7 @@ layout: default
         {% endif %}
         
         {% if page.collaborators %}
-        <dt>Collaborators/dt>
+        <dt>Collaborators</dt>
         <dd>
           <ul>
             {% for person in page.collaborators %}
@@ -43,15 +43,14 @@ layout: default
     </div>
   </header>
   
-  {% if page.github %}
+  {% if page.video_url %}
     <div class="post-content">
-      <div class="video video-project video-coming-soon">
-        <!--<a href="https://www.youtube.com/watch?v={TBC}&t={{ page.video_time }}s" title="Play video">-->
+      <a href="{{ page.video_url }}" title="Play video">
           <div class="video-container">
             <img alt="{{ page.title }}" src="/assets/event/{{ page.video_thumbnail }}.webp">
             <!--<span class="play-button bi bi-play-fill"></span>-->
           </div>
-          <!--</a>-->
+      </a>
       </div>
       {{ content }}
     </div>

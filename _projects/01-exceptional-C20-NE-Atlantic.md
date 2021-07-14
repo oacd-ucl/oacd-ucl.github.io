@@ -12,6 +12,8 @@ collaborators:
   - Neil Rose (UCL Geography)
   - Alan Fox (Scottish Marine Institute)
   - Murray Roberts (University of Edinburgh)
+github:
+video_url:
 ---
 
 During our 2014 research cruise, we targeted high sedimentation drift sites to enable investigation of industrial-era climate. The striking results reveal the exceptional nature of recent changes and have important implications for marine resources and policy management. This work captured public attention with an accompanying, widely read (>800,000) article in [The Conversation](https://theconversation.com/seabed-fossils-show-the-ocean-is-undergoing-a-change-not-seen-for-10-000-years-136804).
