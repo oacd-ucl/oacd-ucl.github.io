@@ -15,8 +15,7 @@ collaborators:
   - Dan Lunt (University of Bristol)
   - Jo Brown (University of Melbourne, Australia)
 github: pmip4
-#video_time: 1559
-#video_thumbnail: project02
+video_url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ---
 
 The groups efforts around the modelling of past climates occur within the Paleoclimate Model Intercomparison Project (PMIP4). Dr Brierley have a special responsibility for fostering research that crosses many different time periods and draws quantitative links to the future climate. PMIP is one of the longest running components of the Coupled Model Intercomparison Project (CMIP) - which provides the climate projections for the influential IPCC assessment reports. PMIP involves over 200 researchers and over 20 different modelling centres across the globe. Within the CMIP6 protocol, there are five different experimental protocols (18) defined for different time periods in Earth’s history. 
