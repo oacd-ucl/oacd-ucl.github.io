@@ -1,7 +1,8 @@
 ---
-title: Collaborations and Outreach
+title: Outreach and Presentations
 menu_title: Other
 menu_icon: film
+permalink: /other/
 ---
 
 ## Media appearances
@@ -9,12 +10,9 @@ menu_icon: film
 <ul class="grid">
 <li class="video" markdown="1">
 
-{% include youtube.html video="HVpC8mYoAuo" title="Data Science and Space-Enabled Data" %}
+{% include youtube.html video="AL5XX_57X3A" title="Gulf Stream fears" %}
 
-In this talk given at the CMIP6 Data Hackathon 2021, Jean Golding Institute
-director **Prof. Kate Robson Brown** speaks about how the University of
-Bristol and Jean Golding Institute are supporting data science, and the
-latest developments in space-enabled data.
+**David Thornalley** was invited onto BBC News to comment on a newly published study, which suggested that the Gulf Stream was close to an irreversible tipping point. 
 
 </li>
 <li class="video" markdown="1">
