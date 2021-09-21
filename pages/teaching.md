@@ -5,7 +5,7 @@ menu_icon: clipboard-check
 permalink: /teaching/
 ---
 
-The OACD group is involved in unversity teaching at all levels. 
+**The OACD group is involved in unversity teaching at all levels.**
 
 ## Administrative Responsibilities
 - David is the Deputy Director of the [London NERC doctoral training programme](https://london-nerc-dtp.org/) and leads the training element of it
