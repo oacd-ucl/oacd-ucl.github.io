@@ -206,14 +206,14 @@ permalink: /people/
 ## Occasional Members and Friends
 
 {:.lead}
-[Helen Czerski](https://mecheng.ucl.ac.uk/people/profile/dr-helen-czerski/), _UCL Mech. Eng._
-[Heather Ford](https://www.qmul.ac.uk/geog/staff/fordh.html), _Queen Mary, Geography_
+- [Helen Czerski](https://mecheng.ucl.ac.uk/people/profile/dr-helen-czerski/), _UCL Mech. Eng._
+- [Heather Ford](https://www.qmul.ac.uk/geog/staff/fordh.html), _Queen Mary, Geography_
 
 ## Former members 
 
 {:.lead}
-[Alex Koch](https://uk.linkedin.com/in/alexander-koch-24455755), _now a postdoc at Simon Fraser University in Vancouver_  
-[Damián Oyarzun](https://www.cr2.cl/eng/postdoctoral-researchers/#1529607354758-d633e1e8-8c1e), _now a postdoc at (CR)2 in Santiago de Chile_ 
-[Maryam Ilyas](http://pu.edu.pk/faculty/description/559/Dr-Maryam-Ilyas.html), _now faculty at the University of the Punjab_
-[Pete Spooner](https://scholar.google.co.uk/citations?user=1LeVRXcAAAAJ)
-[Rehemat Bhatia](https://uk.linkedin.com/in/rehemat-bhatia-76bb7352), _now at NERC_
+- [Alex Koch](https://uk.linkedin.com/in/alexander-koch-24455755), _now a postdoc at Simon Fraser University in Vancouver_  
+- [Damián Oyarzun](https://www.cr2.cl/eng/postdoctoral-researchers/#1529607354758-d633e1e8-8c1e), _now a postdoc at (CR)2 in Santiago de Chile_ 
+- [Maryam Ilyas](http://pu.edu.pk/faculty/description/559/Dr-Maryam-Ilyas.html), _now faculty at the University of the Punjab_
+- [Pete Spooner](https://scholar.google.co.uk/citations?user=1LeVRXcAAAAJ)
+- [Rehemat Bhatia](https://uk.linkedin.com/in/rehemat-bhatia-76bb7352), _now at NERC_
