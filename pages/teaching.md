@@ -13,15 +13,15 @@ permalink: /teaching/
 
 ## Postgraduate Modules
 ### Term 1
-Climate Dynamics [(GEOG0118)](https://www.ucl.ac.uk/module-catalogue/modules/GEOG0118)
-Models in Environmental Science [(GEOG0109)](https://www.ucl.ac.uk/module-catalogue/modules/GEOG0109)
+- Climate Dynamics [(GEOG0118)](https://www.ucl.ac.uk/module-catalogue/modules/GEOG0118)
+- Models in Environmental Science [(GEOG0109)](https://www.ucl.ac.uk/module-catalogue/modules/GEOG0109)
 ### Term 2
-Cities and Climate Change [(GEOG0099)](https://www.ucl.ac.uk/module-catalogue/modules/GEOG0099)
-Ocean Circulation and Climate Change [(GEOG0101)](https://www.ucl.ac.uk/module-catalogue/modules/GEOG0101)
-Climate Modelling [(GEOG0121)](https://www.ucl.ac.uk/module-catalogue/modules/GEOG0121)
-Climate Proxies [(GEOG0123)](https://www.ucl.ac.uk/module-catalogue/modules/GEOG0123)
+- Cities and Climate Change [(GEOG0099)](https://www.ucl.ac.uk/module-catalogue/modules/GEOG0099)
+- Ocean Circulation and Climate Change [(GEOG0101)](https://www.ucl.ac.uk/module-catalogue/modules/GEOG0101)
+- Climate Modelling [(GEOG0121)](https://www.ucl.ac.uk/module-catalogue/modules/GEOG0121)
+- Climate Proxies [(GEOG0123)](https://www.ucl.ac.uk/module-catalogue/modules/GEOG0123)
 
 ## Undergraduate Modules
-Understanding our Planet [(GEOG0005)](http://www.ucl.ac.uk/module-catalogue/modules/GEOG0005)
-Palaeoclimatology [(GEOG0052)](http://www.ucl.ac.uk/module-catalogue/modules/GEOG0052)
-Professional Geography [(GEOG0061)](http://www.ucl.ac.uk/module-catalogue/modules/GEOG0061)
+- Understanding our Planet [(GEOG0005)](http://www.ucl.ac.uk/module-catalogue/modules/GEOG0005)
+- Palaeoclimatology [(GEOG0052)](http://www.ucl.ac.uk/module-catalogue/modules/GEOG0052)
+- Professional Geography [(GEOG0061)](http://www.ucl.ac.uk/module-catalogue/modules/GEOG0061)
