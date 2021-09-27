@@ -12,6 +12,4 @@ may be useful to organisers of similar events.
 
 * [Original home page]({% link index-old.md %})
 
-* [Registration page]({% link pages/registration.md %})
 
-* [Agenda page]({% link pages/agenda.md %})

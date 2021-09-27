@@ -16,8 +16,8 @@ Useful links: (use CTRL/CMD + click to follow links)
 * Shared doc: https://uob-my.sharepoint.com/...
 * Group Workspace on JASMIN: /gws/pw/j05/cop26_hackathons/bristol/project01
  
-Users are expected to follow our code of conduct: https://cmip6moap.github.io/code-of-conduct/ 
- 
+Users are expected to follow our code of conduct: 
+
 All content is publicly available under the Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/ 
 
 <p>----------------------------------------------------------------------------------------</p>
