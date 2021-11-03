@@ -208,6 +208,7 @@ permalink: /people/
 {:.lead}
 - [Helen Czerski](https://mecheng.ucl.ac.uk/people/profile/dr-helen-czerski/), _UCL Mech. Eng._
 - [Heather Ford](https://www.qmul.ac.uk/geog/staff/fordh.html), _Queen Mary, Geography_
+- [David Wilson](https://www.ucl.ac.uk/earth-sciences/people/research-fellows/dr-david-wilson), _UCL Earth Sci._
 
 ## Former members 
 
