@@ -13,14 +13,14 @@ permalink: /people/
             <img alt="Chris" src="{% link assets/team/Chris.jpg %}">
         </td>
         <td>
-            <strong>Dr Chris Brierley</strong>
+            <strong>Prof Chris Brierley</strong>
             <span class="profile-links">
                 <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/academic-staff/academic-staff/chris-brierley"><i class="bi bi-person-lines-fill"></i></a>
                 <a title="Website" href="https://www.past2future.org/"><i class="bi bi-globe2"></i></a>
                 <a title="GitHub" href="https://github.com/chrisbrierley/"><i class="bi bi-github"></i></a>
                 <a title="Twitter" href="https://twitter.com/cmbrierley"><i class="bi bi-twitter"></i></a>
             </span>
-            <br>Associate Professor in Climate Science 
+            <br>Professor of Climate Science 
             <br>Dept of Geography, University College London
         </td>
     </tr>
@@ -35,6 +35,37 @@ permalink: /people/
             </span>
             <br>Research Technician
             <br>Dept of Geography, University College London
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="Harry" src="{% link assets/team/Harry.jpg %}">
+        </td>
+        <td>
+            <strong>Dr Harry Heorton</strong>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://www.ucl.ac.uk/earth-sciences/people/research-staff/dr-harry-heorton"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="GitHub" href="https://github.com/hheorton/"><i class="bi bi-github"></i></a>
+                <a title="Twitter" href="https://twitter.com/harryheorton"><i class="bi bi-twitter"></i></a>
+            </span>
+            <br>Teaching Fellow 
+            <br>Dept of Geography, University College London
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="Pete" src="{% link assets/team/Pete.jpg %}">
+        </td>
+        <td>
+            <strong>Dr Peter Irvine</strong>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://www.ucl.ac.uk/earth-sciences/people/research-staff/dr-harry-heorton"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="Website" href="https://pjirvine.github.io/"><i class="bi bi-globe2"></i></a>
+                <a title="GitHub" href="https://github.com/pjirvine/"><i class="bi bi-github"></i></a>
+                <a title="Twitter" href="https://twitter.com/peteirvine"><i class="bi bi-twitter"></i></a>
+            </span>
+            <br>Lecturer 
+            <br>Dept of Earth Sciences, University College London
         </td>
     </tr>
     <tr>
@@ -56,12 +87,27 @@ permalink: /people/
             <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
         </td>
         <td>
-            <strong>Eirini Papachristopoulou</strong>
+            <strong>Prof David Thornalley</strong>
             <span class="profile-links">
-                <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/professional-services-staff/professional-services-staff/eirini-papachristopoulou"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/academic-staff/academic-staff/david-thornalley"><i class="bi bi-person-lines-fill"></i></a>
             </span>
-            <br>Research Technician
+            <br>Professor of Palaeoceanography and Palaeoclimatology
             <br>Dept of Geography, University College London
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="Michel" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+        </td>
+        <td>
+            <strong>Dr Michel Tsamados</strong>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://www.ucl.ac.uk/earth-sciences/people/academic/dr-michel-tsamados"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="Website" href="https://www.micheltsamados.co.uk/"><i class="bi bi-globe2"></i></a>
+                <a title="Twitter" href="https://twitter.com/micheltsamados"><i class="bi bi-twitter"></i></a>
+            </span>
+            <br>Associate Professor in Polar Observation & Modelling 
+            <br>Dept of Earth Sciences, University College London
         </td>
     </tr>
     <tr>
@@ -69,12 +115,12 @@ permalink: /people/
             <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
         </td>
         <td>
-            <strong>Dr David Thornalley</strong>
+            <strong>Dr David Wilson</strong>
             <span class="profile-links">
-                <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/academic-staff/academic-staff/david-thornalley"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="Profile &amp; contact" href="https://www.ucl.ac.uk/earth-sciences/people/research-fellows/dr-david-wilson"><i class="bi bi-person-lines-fill"></i></a>
             </span>
-            <br>Associate Professor in Palaeoceanography and Palaeoclimatology
-            <br>Dept of Geography, University College London
+            <br>Lecturer
+            <br>Dept of Earth Sciences, University College London
         </td>
     </tr>
 </table>
@@ -82,21 +128,6 @@ permalink: /people/
 ## PhD Students
 
 <table class="team-list">
-    <tr>
-        <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
-        </td>
-        <td>
-            <strong>Rosario Ang</strong>
-            <span class="profile-links">
-                <!-- <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/whartonj/"><i class="bi bi-person-lines-fill"></i></a> -->
-                <!-- <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a> -->
-                <!-- <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a> -->
-            </span>
-            <br>Department of Geography, University College London
-            <br>PhD student
-        </td>
-    </tr>
     <tr>
         <td>
             <img alt="" src="{% link assets/team/AliceCC.jpg %}">
@@ -109,7 +140,7 @@ permalink: /people/
                 <a title="Email" href="mailto:Alice.Carter-Champion.16@ucl.ac.uk"><i class="bi bi-envelope"></i></a>
             </span>
             <br> Investigating climatic variability during the Younger Dryas period in the North Atlantic region, using marine and terrestrial sediment archives and tephrochronology.
-            <br> Centre for Quaternary Research, Royal Holloway, University of London / Department of Geography, University College London (since April-2017)  
+            <br> Centre for Quaternary Research, Royal Holloway, University of London / Department of Geography, University College London 
         </td>
     </tr>
     <tr>
@@ -154,7 +185,18 @@ permalink: /people/
                 <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a> -->
             </span>
             <br>Department of Geography, University College London
-            <br>PhD student
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+        </td>
+        <td>
+            <strong>Eirini Papachristopoulou</strong>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/professional-services-staff/professional-services-staff/eirini-papachristopoulou"><i class="bi bi-person-lines-fill"></i></a>
+            </span>
+            <br>Dept of Geography, University College London
         </td>
     </tr>
     <tr>
@@ -198,7 +240,7 @@ permalink: /people/
                 <a title="GitHub" href="https://github.com/annizhao1994/"><i class="bi bi-github"></i></a>
             </span>
             <br>Palaeoclimate modelling of monsoons during past warm periods 
-            <br>Department of Geography, University College London (since Nov-2017)
+            <br>Department of Geography, University College London
         </td>
     </tr>
 </table>
@@ -208,13 +250,14 @@ permalink: /people/
 {:.lead}
 - [Helen Czerski](https://mecheng.ucl.ac.uk/people/profile/dr-helen-czerski/), _UCL Mech. Eng._
 - [Heather Ford](https://www.qmul.ac.uk/geog/staff/fordh.html), _Queen Mary, Geography_
-- [David Wilson](https://www.ucl.ac.uk/earth-sciences/people/research-fellows/dr-david-wilson), _UCL Earth Sci._
+
 
 ## Former members 
 
 {:.lead}
-- [Alex Koch](https://uk.linkedin.com/in/alexander-koch-24455755), _now a postdoc at Simon Fraser University in Vancouver_  
-- [Damián Oyarzun](https://www.cr2.cl/eng/postdoctoral-researchers/#1529607354758-d633e1e8-8c1e), _now a postdoc at (CR)2 in Santiago de Chile_ 
+- [Alice Carter-Champion](https://pure.au.dk/portal/en/persons/alice-rebecca-lou-carterchampion(889fb4f3-61af-4f51-a5db-0cd39ba940c5).html), _now postdoc at Aarhus University in Denmark_  
+- [Alex Koch](https://uk.linkedin.com/in/alexander-koch-24455755), _now head of geospatial research at Trove Research_  
+- [Damián Oyarzun](https://www.cr2.cl/eng/postdoctoral-researchers/#1529607354758-d633e1e8-8c1e), _now in the sustainability team at Codelco, Chile_ 
 - [Maryam Ilyas](http://pu.edu.pk/faculty/description/559/Dr-Maryam-Ilyas.html), _now faculty at the University of the Punjab_
 - [Pete Spooner](https://scholar.google.co.uk/citations?user=1LeVRXcAAAAJ)
 - [Rehemat Bhatia](https://uk.linkedin.com/in/rehemat-bhatia-76bb7352), _now at NERC_
