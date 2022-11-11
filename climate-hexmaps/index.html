@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Climate change by constituency over Great Britian</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8" />
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@cmbrierley">
+	<meta name="twitter:url" property="og:url" content="https://odileeds.org/projects/hexmaps/constituencies">
+	<meta name="twitter:title" property="og:title" content="Climate change by constituency over Great Britian">
+	<meta name="twitter:description" property="og:description" content="The 2017 UK parliamentary constituencies as a point-topped hex map.">
+	<meta name="twitter:image" property="og:image" content="https://odileeds.org/projects/hexmaps/hexmap.png">
+	<link rel="StyleSheet" href="resources/style.css" type="text/css" />
+	<script type="text/javascript" src="resources/stuquery.js"></script>
+	<script type="text/javascript" src="resources/stuquery.svg.js"></script>
+	<!--<script type="text/javascript" src="../hexmaps/resources/stuquery.hexmap.js"></script>-->
+	<script type="text/javascript" src="resources/stuquery.hexmap.js"></script>
+	<script type="text/javascript" src="resources/constituencies.js"></script>
+	<script>
+	var constituencies;
+	S(document).ready(function(){
+		constituencies = new Constituencies('hexmap',{
+			'width':915,
+			'height':1120,
+			'padding':0,
+			'file':'climate_projections.hexjson',
+			'search':{'id':'search'}
+		});
+	});
+	</script>
+	<style>
+	button { margin-top: 0.25em; }	
+	#hexmap {
+		margin: auto;
+		max-width: 100%;
+		position: relative;
+		width: 100%; height: auto; max-width: 100vw;
+	}
+	svg { max-width: 100%; height: auto; }
+	select {
+		font-size: 1em;
+		height: 2em;
+		margin-bottom: 1em;
+	}
+	form {
+		text-align: center;
+	}
+	#key { max-width: 800px; margin: auto; margin-bottom: 1em; }
+	.generalelection .infobubble_inner { display: flex; }
+	.generalelection {
+		width: 500px;
+		max-width: 80%;
+		text-align: left;
+		line-height: 1.5em;
+		padding: 1em;
+	}
+	.generalelection img {
+		width: 5.5em;
+		height: auto;
+		margin-right: 0.5em;
+	}
+	.generalelection table {
+		width: 100%;
+	}
+	#hexmap .hex-grid { display: none; }
+	
+	.hex-cell { fill-opacity: 1; }
+	.hex-label { fill: white; }
+	.hex-cell.highlighted { stroke: black!important; stroke-width: 2px!important; }
+	.hex-cell.not-highlighted { opacity: 0.3!important; }
+	.hex-cell.hover { stroke: white!important; stroke-width: 5px!important; opacity:1!important; fill-opacity: 1!important; }
+	.hex-label.hover { fill: white!important; }
+	.hex-label.selected { fill: black!important;}
+	.hex-cell.selected { fill: #dfdfdf!important; }
+
+	#search { position: absolute; display: block; width: 100%; max-width: 400px; }
+	#search .search-inner { position: relative; }
+	#search label {
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		z-index: 100;
+		font-size: 1em;
+		display: inline-block;
+		background: black;
+		color: white;
+		padding: 1.13em;
+		font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+		line-height: 1;
+		text-transform: uppercase;
+		padding: 0.5em 1em;
+		font-weight: bold;
+		text-decoration: none;
+		letter-spacing: 0.05em;
+		line-height: 2em;
+		width: 3em;
+	}
+	#search input {
+		font-size: 1em;
+		background: rgba(255,255,255,0.7) !important;
+		border: solid 0.5em black;
+		border-radius: 0px;
+		display: none;
+		color: black;
+		padding: 0 0.5em;
+		height: 3em;
+		width: 100%;
+		position: relative;
+		left: 0em;
+		top: 0px;
+		padding-left: 3em;
+		z-index: 99;
+	}
+	#search svg { position: relative; top: 0.2em; }
+	#search.searching input { display: inline-block; }
+	#search .search-results { margin: 0px; list-style: none; }
+	#search .search-results li a { padding: 0.5em 0.5em 0.5em 0.5em; text-align: left; background-color: rgba(223,223,223,0.92); display: block; color: inherit; text-decoration: none; }
+	#search .search-results li a:hover, #search .search-results li a:focus, #search .search-results li a.selected { background-color: #000000; color: white; }
+
+	.message { text-align: center; padding: 0.5em; }
+	@media only screen and (max-width: 700px) {
+		#hexmap text { display: none; }
+	}
+	</style>
+</head>
+<body>
+
+	<div id="main">
+
+		<header>
+			<div class="b1-bg">
+				<div class="holder" style="text-align:center;">
+					<a href="https://odileeds.org/"><img src="https://odileeds.github.io/website-helper/odileeds.svg" /></a>
+					<h1>Climate change by constituency over Great Britian</h1>
+				</div>
+			</div>
+		</header>
+
+		<div class="holder">
+			<p><a href="https://odileeds.org/blog/2017-05-08-mapping-election-with-hexes">We've created a (pointy-topped) hex map</a> of UK parliamentary constituencies to show each constituency with equal visual weight. Obviously we've had to make some compromises but <a href="https://github.com/odileeds/hexmaps/blob/gh-pages/maps/constituencies.hexjson">the hex layout is open</a> if you want to make changes. Below you can see data from a variety of sources. We've also made a <a href="https://odileeds.org/projects/petitions/">constituency hex map for UK Parliament petitions</a> and a <a href="https://odileeds.org/projects/divisions/">constituency hex map for House of Commons Divisions</a>.</p>
+			<form>
+				<label style="text-align:center;">Colour by:</label>
+				<select id="data-selector">
+					<option class="switchdata b5-bg" value="climate">Change in heatwave days 2065</option>
+					<option class="switchdata b5-bg" value="population">Population</option>
+					<option class="switchdata b5-bg" value="electorate">Electorate</option>
+					<option class="switchdata c10-bg" selected="selected" value="region">Region</option>
+					<option class="switchdata b5-bg" value="GE2019-candidates">2019 General Election: candidates</option>
+					<option class="switchdata b5-bg" value="GE2019-gender">2019 General Election: gender-split</option>
+					<option class="switchdata b5-bg" value="GE2017-results">2017 General Election: results</option>
+					<option class="switchdata b5-bg" value="GE2017-turnout">2017 General Election: turnout</option>
+					<option class="switchdata b5-bg" value="GE2017-candidates">2017 General Election: candidates</option>
+					<option class="switchdata b5-bg" value="GE2017-gender">2017 General Election: gender-split</option>
+					<option class="switchdata b5-bg" value="GE2015-results">2015 General Election: results</option>
+					<option class="switchdata b5-bg" value="rural">Rural (2011)</option>
+					<option class="switchdata b5-bg" value="referendum">EU Referendum estimates</option>
+					<option class="switchdata b5-bg" value="benefits">% people on benefits</option>
+				</select>
+			</form>
+			<div id="key"></div>
+			<div class="spinner"><div class="rect1 c10-bg"></div><div class="rect2 c10-bg"></div><div class="rect3 c10-bg"></div><div class="rect4 c10-bg"></div><div class="rect5 c10-bg"></div></div>
+			<div id="hexmap" style="text-align:center;margin:auto;">
+				<div id="search"><div class="search-inner"><label for="constituencies" class="search-button"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 12 13"><g stroke-width="2" stroke="white" fill="none"><path d="M11.29 11.71l-4-4"/><circle cx="5" cy="5" r="4"/></g></svg></label><input type="text" class="search-input" name="constituencies" id="constituencies" value="" placeholder="e.g. Leeds Central"></div></div>
+			</div>
+		</div>
+
+		<div class="holder" style="text-align:center;">
+			<p>
+			<button id="save" class="c10-bg">Save hexes as <span class="line">H</span>exJSON</button>
+			<button id="savesvg" class="c10-bg">Save <span class="line">m</span>ap as SVG</button>
+			</p>
+		</div>
+		<div class="holder">
+			<h2>Other versions</h2>
+			<p>Leeds-based mapping company <a href="https://parallel.co.uk/">parallel</a> have created <a href="https://parallel.co.uk/election-2017/">an extruded 3D view</a> that can be rotated to <a href="https://twitter.com/thomasforth/status/864460489354596352">prioritise the focus</a> and <a href="https://parallel.co.uk/election-2017/majority/#15.29/51.4646/-0.0016/0/45">a view showing majorities</a>. Leeds-based developer <a href="https://twitter.com/daalwr">Daniel Wright</a> has also <a href="https://daalwr.github.io/3dmap/">created a 3D view</a> using <a href="https://threejs.org/">three.js</a> which currently shows votes by party, electorate size, and gains. <a href="https://twitter.com/olihawkins/status/865552316023296001">Oli Hawkins</a> has created <a href="https://github.com/olihawkins/d3-hexjson">a plugin to read HexJSON files with D3.js</a>. <a href="https://twitter.com/puntofisso">Giuseppe Sollazzo‏</a> has created <a href="http://swing.puntofisso.net/">an election swing viewer</a> using the map and the D3 plugin. Phil Gorman has made a map that shows <a href="https://mognar.github.io/divisionmap/">the number of Divisions MPs (2017 Parliament) took part in</a>.</p>
+		</div>
+		
+	</div>
+	
+	<footer class="b1-bg">
+		<div class="holder">
+			&copy; 2017-2019 <a href="https://odileeds.org/">ODI Leeds</a>. Released under an MIT license. <a href="https://github.com/odileeds/hexmaps">Source on Github</a>.
+			<br /><a href="http://www.electoralcommission.org.uk/our-work/our-research/electoral-data">2015 election results from the Electoral Commission</a>.
+			<br /><a href="https://docs.google.com/spreadsheets/d/1b71SDKPFbk-ktmUTXmDpUP5PT299qq24orEA0_TOpmw/edit#gid=579044181">EU referendum estimates</a> from <a href="http://www.tandfonline.com/doi/abs/10.1080/17457289.2017.1287081?journalCode=fbep20">Hanretty 2017</a> (<a href="https://medium.com/@chrishanretty/final-estimates-of-the-leave-vote-or-areal-interpolation-and-the-uks-referendum-on-eu-membership-5490b6cab878">blog post</a>).
+			<br /><a href="https://democracyclub.org.uk/data/">2017 general election candidates are from Democracy Club</a> under a CC-BY-SA 3.0 license. You can <a href="https://democracyclub.org.uk/quests/">help to add missing candidates</a>.
+			<br /><a href="https://github.com/alasdairrae/wpc">2017 general election results and constituency data are from Alasdair Rae</a> (<a href="https://github.com/alasdairrae/wpc/blob/master/files/wpc_2019_flat_file_v9.csv">CSV</a>).
+			<br /><a href="https://democracyclub.org.uk/data/">2019 general election candidates are from Democracy Club</a> under a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0 license</a>. You can <a href="https://democracyclub.org.uk/quests/">help to add missing candidates</a>.
+			<br /><a href="https://data.gov.uk/dataset/789d4edd-3c4f-47f4-8b29-2a34339d0e5f/rural-urban-classification-2011-of-westminster-parliamentary-constituencies-in-england">2011 Rural Urban Classification of Westminster Parliamentary Constituencies in England</a>.
+		</div>
+	</footer>
+
+	<script src="https://odileeds.org/resources/odi.log.js"></script>
+	<script>
+	ODI.log.setup({'id':'odileeds','target':['odileeds.org','odileeds.github.io']}).add('action=view');
+	</script>
+
+</body>
+</html>
