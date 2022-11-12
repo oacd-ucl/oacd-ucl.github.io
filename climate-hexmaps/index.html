@@ -10,16 +10,28 @@
   <meta name="twitter:title" property="og:title" content="Climate change by constituency over Great Britain">
   <meta name="twitter:description" property="og:description" content="The 2017 UK parliamentary constituencies as a point-topped hex map.">
   <meta name="twitter:image" property="og:image" content="">
+  <link rel="stylesheet" href="https://oacd-ucl.github.io/assets/main.css" type="text/css">
   <link rel="stylesheet" href="./resources/app.css?v=1" type="text/css">
 </head>
 <body>
+  <header class="hexmap-header">
+    <h1>Climate project cartograms</h1>
+  </header>
+
   <figure class="hexmap">
-    <select class="hexmap__select"></select>
-    <div class="hexmap__outer"></div>
-    <figcaption>Cartogram showing climate projections</figcaption>
+    <select class="hexmap__select hexmap__section"></select>
+    <div class="hexmap__outer hexmap__section"></div>
+    <div class="hexmap__colourbar">
+      <div class="hexmap__colourbar__inner"></div>
+      <div class="hexmap__colourbar__labels">
+        <span class="hexmap__colourbar__min"></span>
+        <span class="hexmap__colourbar__max"></span>
+      </div>
+    </div>
   </figure>
 
   <script type="text/javascript" src="./resources/odi.hexmap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/chroma-js/2.4.2/chroma.min.js" integrity="sha512-zInFF17qBFVvvvFpIfeBzo7Tj7+rQxLeTJDmbxjBz5/zIr89YVbTNelNhdTT+/DCrxoVzBeUPVFJsczKbB7sew==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script type="text/javascript" src="./resources/app.js"></script>
 </body>
 </html>
