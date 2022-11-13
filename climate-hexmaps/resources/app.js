@@ -112,9 +112,17 @@
 
     const active_key = e.data.hexmap.extra.activeKey;
     const region_name = e.data.data.n;
-    const region_contact = 'MP: ' + e.data.data.mp_name_2019 + ' (' + e.data.data.first_party + ')';
+    let region_contact = '';
+    if ('mp_name_2019' in e.data.data) {
+      region_contact =  'MP: ' + e.data.data.mp_name_2019;
+      if ('first_party' in e.data.data) {
+        region_contact += ' (' + e.data.data.first_party + ')';
+      }
+    }
     const region_value = getRegionValue(active_key, e.data.data, data_config);
-    tip.innerHTML = [region_name, region_contact, region_value].join('<br>');
+    tip.innerHTML = [region_name, region_contact, region_value]
+      .filter(item => item !== '')
+      .join('<br>');
 
     const bb = hex.getBoundingClientRect();
     const bbo = svg.getBoundingClientRect();
