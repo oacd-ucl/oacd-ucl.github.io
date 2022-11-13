@@ -84,14 +84,22 @@
           hexmap_select.appendChild(hexmap_opt)
         }
 
+        // Load dataset from query parameter
+        const params = new URLSearchParams(window.location.search);
+        let active_key = params.get('data');
+        if (!active_key || !(active_key in data_config)) {
+          active_key = hexmap_select.value
+        }
+
         // Store some useful attrs for later
         hex.extra = {
-          'activeKey': '',
+          'activeKey': active_key,
           'colourbar': document.querySelector('.hexmap__colourbar')
         }
 
         // Update hexmap & add auto-update to select change
-        updateHexmap(hex, data_config, colourscales, hexmap_select.value)
+        hexmap_select.value = active_key
+        updateHexmap(hex, data_config, colourscales, active_key)
         hexmap_select.addEventListener('change', e => {
           updateHexmap(hex, data_config, colourscales, e.target.value)
         });
@@ -194,6 +202,12 @@
     obj.updateColours(r => colourscale_full(obj.mapping.hexes[r][key]));
     obj.extra.colourbar && updateColourbar(obj.extra.colourbar, colourscales, config, key, vmin, vmax);
     obj.extra.activeKey = key;
+
+    // Update url
+    const new_url = window.location.href.replace(window.location.search, '?data=' + key);
+    if (window.location.href != new_url) {
+      window.history.replaceState({ path: new_url }, '', new_url);
+    }
 
     // Reset gridcells
     [...obj.el.querySelectorAll('.hex-cell.hover')].forEach(node => node.classList.remove('hover'));
