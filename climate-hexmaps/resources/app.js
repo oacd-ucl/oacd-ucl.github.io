@@ -1,17 +1,57 @@
 (() => {
   const data_config = {
-    'ann_rain_2019': { 'colourscale': 'Viridis' },
-    'ann_rain_change_mmday_2065': { 'colourscale': 'Viridis' },
-    'ann_warming_oC_2065': { 'colourscale': 'RdYlBu_r' },
-    'drought_day_change_2065': { 'colourscale': 'Viridis' },
-    'max5day_rain_mm_change_2065': { 'colourscale': 'Viridis' },
-    'number_heatwave_days_change_2065': { 'colourscale': 'RdYlBu_r' },
-    'warmest_dayofyear_change_oC_2065': { 'colourscale': 'RdYlBu_r' }
+    'ann_rain_2019': {
+      'centred': true,
+      'colourscale': 'RdYlBu_r',
+      'dp': 3,
+      'title': 'Observed rainfall anomaly in 2019',
+      'units': 'mm/day',
+    },
+    'ann_rain_change_mmday_2065': {
+      'centred': true,
+      'colourscale': 'RdYlBu_r',
+      'dp': 3,
+      'title': 'Annual mean change in rainfall',
+      'units': 'mm/day',
+    },
+    'ann_warming_oC_2065': {
+      'colourscale': 'YlOrRd',
+      'dp': 3,
+      'title': 'Annual mean change in temperature',
+      'units': '°C',
+    },
+    'drought_day_change_2065': {
+      'colourscale': 'YlOrRd',
+      'dp': 3,
+      'title': 'Change in number of days experiencing drought',
+      'units': 'days',
+    },
+    'max5day_rain_mm_change_2065': {
+      'centred': true,
+      'colourscale': 'RdYlBu_r',
+      'dp': 3,
+      'title': 'Change in amount of rain falling over wettest 5 days of the year',
+      'units': 'mm/day',
+    },
+    'number_heatwave_days_change_2065': {
+      'colourscale': 'YlOrRd',
+      'dp': 3,
+      'title': 'Change in number of days classed as heatwaves',
+      'units': 'days',
+    },
+    'warmest_dayofyear_change_oC_2065': {
+      'colourscale': 'YlOrRd',
+      'dp': 3,
+      'title': 'Change in temperature of warmest day of year',
+      'units': '°C',
+    }
   };
 
+  // https://colorbrewer2.org
   const colourscales = {
     'Viridis': (min, max) => chroma.scale('Viridis').domain([min, max]),
-    'RdYlBu_r': (min, max) => chroma.scale('RdYlBu').domain([max, min])
+    'RdYlBu_r': (min, max) => chroma.scale('RdYlBu').domain([max, min]),
+    'YlOrRd': (min, max) => chroma.scale('YlOrRd').domain([min, max]),
   }
 
   // Colourscales from https://open-innovations.org/projects/hexmaps/builder.html
@@ -38,8 +78,8 @@
         // Build dropdown options
         const hexmap_select = document.querySelector('.hexmap__select');
         for (const key in data_config) {
-          let hexmap_opt = document.createElement('option');
-          hexmap_opt.innerText = key
+          const hexmap_opt = document.createElement('option');
+          hexmap_opt.innerText = getLabel(key, data_config[key])
           hexmap_opt.value = key
           hexmap_select.appendChild(hexmap_opt)
         }
@@ -70,8 +110,9 @@
       svg.appendChild(tip);
     }
 
-    region_name = e.data.data.n;
-    region_value = e.data.data[e.data.hexmap.extra.activeKey] || 'No data';
+    const active_key = e.data.hexmap.extra.activeKey;
+    const region_name = e.data.data.n;
+    const region_value = getRegionValue(active_key, e.data.data, data_config);
     tip.innerHTML = region_name + '<br>' + region_value;
 
     const bb = hex.getBoundingClientRect();
@@ -85,40 +126,84 @@
     tooltip && tooltip.remove();
   });
 
+
+  function getLabel(key, conf) {
+    if (!('title' in conf)) {
+      return key;
+    }
+
+    return conf['title'] + ('units' in conf ? ' (' + conf['units'] + ')' : '');
+  }
+
+  function getRegionValue(key, data, conf) {
+    if (!(key in data)) {
+      return 'No data';
+    }
+
+    let value = data[key];
+    let units = '';
+    if (key in conf) {
+      value = getRoundedValue(value, conf[key]['dp']);
+      if ('units' in conf[key]) {
+        units = ' ' + conf[key]['units'];
+      }
+    }
+
+    return value + units;
+  }
+
+  function getRoundedValue(value, dp) {
+    if (!dp) {
+      return value;
+    }
+
+    return parseFloat(value).toFixed(dp);
+  }
+
   function updateHexmap(obj, all_data_config, colourscales, key) {
     if (!(key in all_data_config)) {
       console.error('Error: ' + key + ' not found in config');
       return;
     }
 
+    const config = all_data_config[key];
     const data = Object.values(obj.mapping.hexes)
       .map(item => item[key] || Number.NaN)
       .filter(item => !Number.isNaN(item));
-    const vmin = Math.min(...data);
-    const vmax = Math.max(...data);
+    let vmin = Math.min(...data);
+    let vmax = Math.max(...data);
 
-    const config = all_data_config[key];
-    // NB `colourscale_full`, `colourscale_norm` are chroma.scale objects (https://gka.github.io/chroma.js/#color-scales)
+    // Centre around 0
+    if (config['centred']) {
+      const abs_max = Math.max(Math.abs(vmin), Math.abs(vmax));
+      vmin = abs_max * -1;
+      vmax = abs_max
+    }
+
+    // NB `colourscale_full` is a chroma.scale object (https://gka.github.io/chroma.js/#color-scales)
     const colourscale_full = colourscales[config.colourscale](vmin, vmax);
-    const colourscale_norm = colourscales[config.colourscale](0, 100);
     obj.updateColours(r => colourscale_full(obj.mapping.hexes[r][key]));
-    obj.extra.colourbar && updateColourbar(obj.extra.colourbar, colourscale_norm, vmin, vmax);
+    obj.extra.colourbar && updateColourbar(obj.extra.colourbar, colourscales, config, key, vmin, vmax);
     obj.extra.activeKey = key;
 
     // Reset gridcells
     [...obj.el.querySelectorAll('.hex-cell.hover')].forEach(node => node.classList.remove('hover'));
   }
 
-  function updateColourbar(el, colourscale, vmin, vmax) {
+  function updateColourbar(el, colourscales, conf, key, vmin, vmax) {
     const inner = el.querySelector('.hexmap__colourbar__inner');
     inner.innerHTML = '';
+
+    // NB `colourscale_norm` is a chroma.scale object (https://gka.github.io/chroma.js/#color-scales)
+    const colourscale_norm = colourscales[conf.colourscale](0, 100);
     for (let i = 0; i < 100; i++) {
       const span = document.createElement('span');
-      span.style.backgroundColor = colourscale(i);
+      span.style.backgroundColor = colourscale_norm(i);
       inner.appendChild(span)
     }
 
-    el.querySelector('.hexmap__colourbar__min').innerText = vmin;
-    el.querySelector('.hexmap__colourbar__max').innerText = vmax;
+    el.querySelector('.hexmap__colourbar__label').innerText = getLabel(key, conf);
+    el.querySelector('.hexmap__colourbar__min').innerText = getRoundedValue(vmin, conf['dp']);
+    el.querySelector('.hexmap__colourbar__max').innerText = getRoundedValue(vmax, conf['dp']);
   }
 })();

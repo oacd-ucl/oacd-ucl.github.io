@@ -34,6 +34,10 @@
 .hexmap__colourbar__inner span {
   flex: 1;
 }
+.hexmap__colourbar__label {
+  padding: 0 0.5em;
+  text-align: center;
+}
 .hexmap__colourbar__labels {
   display: flex;
   justify-content: space-between;
