@@ -143,6 +143,9 @@
     tooltip && tooltip.remove();
   });
 
+  // Add hexmap search
+  const search = new OI.hexmapsearch(hex);
+
 
   function getLabel(key, conf) {
     if (!('title' in conf)) {
