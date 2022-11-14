@@ -70,7 +70,7 @@
   //   'Black': '#000000 0%, #000000 100%'
   // };
 
-  const hex = new ODI.hexmap(
+  const hex = new OI.hexmap(
     document.querySelector('.hexmap__outer'),
     {
       'hexjson': 'resources/climate_projections.hexjson',
