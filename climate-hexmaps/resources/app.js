@@ -121,8 +121,8 @@
     const active_key = e.data.hexmap.extra.activeKey;
     const region_name = e.data.data.n;
     let region_contact = '';
-    if ('mp_name_2019' in e.data.data) {
-      region_contact =  'MP: ' + e.data.data.mp_name_2019;
+    if ('mp_name' in e.data.data) {
+      region_contact =  'MP: ' + e.data.data.mp_name;
       if ('first_party' in e.data.data) {
         region_contact += ' (' + e.data.data.first_party + ')';
       }
