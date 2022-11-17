@@ -28,7 +28,7 @@
     },
     'max5day_rain_mm_change_2065': {
       'centred': true,
-      'colourscale': 'RdYlBu_r',
+      'colourscale': 'BrBG',
       'dp': 3,
       'title': 'Change in amount of rain falling over wettest 5 days of the year',
       'units': 'mm/day',
@@ -52,6 +52,7 @@
     'Viridis': (min, max) => chroma.scale('Viridis').domain([min, max]),
     'RdYlBu_r': (min, max) => chroma.scale('RdYlBu').domain([max, min]),
     'YlOrRd': (min, max) => chroma.scale('YlOrRd').domain([min, max]),
+    'BrBG': (min, max) => chroma.scale('BrBG').domain([min, max]),
   }
 
   // Colourscales from https://open-innovations.org/projects/hexmaps/builder.html
