@@ -80,29 +80,29 @@
         const hexmap_select = document.querySelector('.hexmap__select');
         for (const key in data_config) {
           const hexmap_opt = document.createElement('option');
-          hexmap_opt.innerText = getLabel(key, data_config[key])
-          hexmap_opt.value = key
-          hexmap_select.appendChild(hexmap_opt)
+          hexmap_opt.innerText = getLabel(key, data_config[key]);
+          hexmap_opt.value = key;
+          hexmap_select.appendChild(hexmap_opt);
         }
 
         // Load dataset from query parameter
         const params = new URLSearchParams(window.location.search);
         let active_key = params.get('data');
         if (!active_key || !(active_key in data_config)) {
-          active_key = hexmap_select.value
+          active_key = hexmap_select.value;
         }
 
         // Store some useful attrs for later
         hex.extra = {
           'activeKey': active_key,
           'colourbar': document.querySelector('.hexmap__colourbar')
-        }
+        };
 
         // Update hexmap & add auto-update to select change
-        hexmap_select.value = active_key
+        hexmap_select.value = active_key;
         updateHexmap(hex, data_config, colourscales, active_key)
         hexmap_select.addEventListener('change', e => {
-          updateHexmap(hex, data_config, colourscales, e.target.value)
+          updateHexmap(hex, data_config, colourscales, e.target.value);
         });
       }
     }
@@ -195,7 +195,7 @@
     if (config['centred']) {
       const abs_max = Math.max(Math.abs(vmin), Math.abs(vmax));
       vmin = abs_max * -1;
-      vmax = abs_max
+      vmax = abs_max;
     }
 
     // NB `colourscale_full` is a chroma.scale object (https://gka.github.io/chroma.js/#color-scales)
@@ -205,9 +205,10 @@
     obj.extra.activeKey = key;
 
     // Update url
-    const new_url = window.location.href.replace(window.location.search, '?data=' + key);
-    if (window.location.href != new_url) {
-      window.history.replaceState({ path: new_url }, '', new_url);
+    const url = new URL(window.location)
+    if (url.searchParams.get('data') != key) {
+      url.searchParams.set('data', key);
+      window.history.replaceState(null, '', url);
     }
 
     // Reset gridcells
