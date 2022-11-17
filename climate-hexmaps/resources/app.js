@@ -9,7 +9,7 @@
     },
     'ann_rain_change_mmday_2065': {
       'centred': true,
-      'colourscale': 'RdYlBu_r',
+      'colourscale': 'BrBG',
       'dp': 3,
       'title': 'Annual mean change in rainfall',
       'units': 'mm/day',
