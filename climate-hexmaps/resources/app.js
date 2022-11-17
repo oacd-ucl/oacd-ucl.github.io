@@ -204,9 +204,10 @@
     obj.extra.activeKey = key;
 
     // Update url
-    const new_url = window.location.href.replace(window.location.search, '?data=' + key);
-    if (window.location.href != new_url) {
-      window.history.replaceState({ path: new_url }, '', new_url);
+    const url = new URL(window.location)
+    if (url.searchParams.get('data') != key) {
+      url.searchParams.set('data', key);
+      window.history.replaceState(null, '', url);
     }
 
     // Reset gridcells
