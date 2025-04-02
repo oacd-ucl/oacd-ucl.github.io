@@ -12,7 +12,7 @@ permalink: /other/
 
 {% include youtube.html video="AL5XX_57X3A" title="Gulf Stream fears" %}
 
-**David Thornalley** was invited onto BBC News to comment on a newly published study, which suggested that the Gulf Stream was close to an irreversible tipping point. 
+**David Thornalley** was invited onto BBC News to comment on his published study, which suggested that the Gulf Stream was close to an irreversible tipping point. 
 
 </li>
 <li class="video" markdown="1">
@@ -31,7 +31,7 @@ Roundtable is a panel discussion show broadcast on TRT World. **Chris Brierley**
 
 {% include youtube.html video="kKsh1A0A2eA" title="Extruding a multi-core (AR36)" %}
 
-PhD student **Jack Wharton** and Dr **David Thornalley** extruding a multi-core on the R/V Neil Armstrong at the beginning of September 2019.
+Dr **Jack Wharton** and Dr **David Thornalley** extruding a multi-core on the R/V Neil Armstrong at the beginning of September 2019.
 
 </li>
 <li class="video" markdown="1">

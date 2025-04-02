@@ -15,7 +15,7 @@ The [Bloomsbury Environmental Isotope Facility (BEIF)](https://www.ucl.ac.uk/blo
 
 We have posted proxy reconstruction data on [Pangaea](https://pangaea.de/?q=Thornalley%2C+David+JR) and [NOAA Paleoclimate](https://www.ncdc.noaa.gov/paleo-search/study/search.json?dataPublisher=NOAA&investigators=Thornalley%2C%20D.J.R.&headersOnly=true)
 
-The PMIPVarData website hosts a lot of post-processed output for both PMIP3 and PMIP4. It can be accessed through <http://www2.geog.ucl.ac.uk/~ucfaccb/past2future/>.
+The PMIPVarData website hosts a lot of post-processed output for both PMIP3 and PMIP4. It can be accessed through <http://www2.geog.ucl.ac.uk/~ucfaccb/PMIPVarData/>.
 
 ## Code
 Our group is one of the maintainers of the [PMIP4 organisation on GitHub](https://pmip4.github.io/). This aims to gather together a selection of codes used to analyse the output from the Palaeoclimate Model Intercomparison Project. 

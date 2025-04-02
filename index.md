@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ocean, Atmosphere and Climate Dynamics
+title: Ocean, Atmosphere and Cryospheric Dynamics
 menu_title: Home
 menu_icon: house-door
 ---

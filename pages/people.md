@@ -10,6 +10,21 @@ permalink: /people/
 <table class="team-list">
     <tr>
         <td>
+            <img alt="" src="{% link assets/team/AliceCC.jpg %}">
+        </td>
+        <td>
+            <strong>Dr Alice Carter-Champion</strong>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/carterchampiona/"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="Twitter" href="https://twitter.com/ACarter_Champs"><i class="bi bi-twitter"></i></a>
+                <a title="Email" href="mailto:Alice.Carter-Champion.16@ucl.ac.uk"><i class="bi bi-envelope"></i></a>
+            </span>
+            <br> Associate Lecturer 
+            <br> Department of Geography, University College London 
+        </td>
+    </tr>
+    <tr>
+        <td>
             <img alt="Chris" src="{% link assets/team/Chris.jpg %}">
         </td>
         <td>
@@ -48,37 +63,7 @@ permalink: /people/
                 <a title="GitHub" href="https://github.com/hheorton/"><i class="bi bi-github"></i></a>
                 <a title="Twitter" href="https://twitter.com/harryheorton"><i class="bi bi-twitter"></i></a>
             </span>
-            <br>Teaching Fellow 
-            <br>Dept of Geography, University College London
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img alt="Pete" src="{% link assets/team/Pete.jpg %}">
-        </td>
-        <td>
-            <strong>Dr Peter Irvine</strong>
-            <span class="profile-links">
-                <a title="Profile &amp; contact" href="https://www.ucl.ac.uk/earth-sciences/people/research-staff/dr-harry-heorton"><i class="bi bi-person-lines-fill"></i></a>
-                <a title="Website" href="https://pjirvine.github.io/"><i class="bi bi-globe2"></i></a>
-                <a title="GitHub" href="https://github.com/pjirvine/"><i class="bi bi-github"></i></a>
-                <a title="Twitter" href="https://twitter.com/peteirvine"><i class="bi bi-twitter"></i></a>
-            </span>
-            <br>Lecturer 
-            <br>Dept of Earth Sciences, University College London
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
-        </td>
-        <td>
-            <strong>Dr Charlotte O'Brien</strong>
-            <span class="profile-links">
-                <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/research-staff/charlotte-obrien"><i class="bi bi-person-lines-fill"></i></a>
-                <a title="Twitter" href="https://twitter.com/charlyob"><i class="bi bi-twitter"></i></a>
-            </span>
-            <br>Research Associate
+            <br>Associate Lecturer 
             <br>Dept of Geography, University College London
         </td>
     </tr>
@@ -119,33 +104,46 @@ permalink: /people/
             <span class="profile-links">
                 <a title="Profile &amp; contact" href="https://www.ucl.ac.uk/earth-sciences/people/research-fellows/dr-david-wilson"><i class="bi bi-person-lines-fill"></i></a>
             </span>
-            <br>Lecturer
+            <br>Lecturer in ?????
             <br>Dept of Earth Sciences, University College London
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+        </td>
+        <td>
+            <strong>Dr Lucy Roberts</strong>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/research-staff/charlotte-obrien"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="Twitter" href="https://twitter.com/charlyob"><i class="bi bi-twitter"></i></a>
+            </span>
+            <br>Lecturer in ????
+            <br>Dept of Geography, University College London
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+        </td>
+        <td>
+            <strong>Dr Sahsa Montelli</strong>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/research-staff/charlotte-obrien"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="Twitter" href="https://twitter.com/charlyob"><i class="bi bi-twitter"></i></a>
+            </span>
+            <br>Lecturer in ????
+            <br>Dept of Geography, University College London
         </td>
     </tr>
 </table>
 
-## PhD Students
+## PhD Students -- OUTDATED!
 
 <table class="team-list">
     <tr>
         <td>
-            <img alt="" src="{% link assets/team/AliceCC.jpg %}">
-        </td>
-        <td>
-            <strong>Alice Carter-Champion</strong>
-            <span class="profile-links">
-                <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/carterchampiona/"><i class="bi bi-person-lines-fill"></i></a>
-                <a title="Twitter" href="https://twitter.com/ACarter_Champs"><i class="bi bi-twitter"></i></a>
-                <a title="Email" href="mailto:Alice.Carter-Champion.16@ucl.ac.uk"><i class="bi bi-envelope"></i></a>
-            </span>
-            <br> Investigating climatic variability during the Younger Dryas period in the North Atlantic region, using marine and terrestrial sediment archives and tephrochronology.
-            <br> Centre for Quaternary Research, Royal Holloway, University of London / Department of Geography, University College London 
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img alt="ZhiyiJ" src="{% link assets/team/Zhiyi.jpg %}">
+            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
         </td>
         <td>
             <strong>Zhiyi Jiang</strong>
@@ -159,7 +157,7 @@ permalink: /people/
     </tr>
     <tr>
         <td>
-            <img alt="ThomasK" src="{% link assets/team/ThomasK.jpg %}">
+            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
         </td>
         <td>
             <strong>Tom Keel</strong>
@@ -219,28 +217,14 @@ permalink: /people/
             <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
         </td>
         <td>
-            <strong>Jack Warton</strong>
+            <strong>Jack Wharton</strong>
             <span class="profile-links">
                 <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/whartonj/"><i class="bi bi-person-lines-fill"></i></a>
                 <!-- <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a> -->
                 <!-- <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a> -->
             </span>
             <br>Department of Geography, University College London
-            <br>PhD student
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img alt="Anni" src="{% link assets/team/Anni.jpg %}">
-        </td>
-        <td>
-            <strong>Anni Zhao</strong>
-            <span class="profile-links">
-                <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/research-students/anni-zhao"><i class="bi bi-person-lines-fill"></i></a>
-                <a title="GitHub" href="https://github.com/annizhao1994/"><i class="bi bi-github"></i></a>
-            </span>
-            <br>Palaeoclimate modelling of monsoons during past warm periods 
-            <br>Department of Geography, University College London
+            <br>Postdoc
         </td>
     </tr>
 </table>
@@ -257,7 +241,13 @@ permalink: /people/
 {:.lead}
 - [Alice Carter-Champion](https://pure.au.dk/portal/en/persons/alice-rebecca-lou-carterchampion(889fb4f3-61af-4f51-a5db-0cd39ba940c5).html), _now postdoc at Aarhus University in Denmark_  
 - [Alex Koch](https://uk.linkedin.com/in/alexander-koch-24455755), _now head of geospatial research at Trove Research_  
+- [Anni Zhao](https://faculty.pku.edu.cn/yyhu/en/zhym/24958/list/index.htm), _now a postdoc at Peking University, Beijing_
+- [Daniel Parkes](https://www.linkedin.com/in/dr-dan-parkes-809a7788), _now an editor at PLOSone, after a stint looking at DEI of the London NERC DTP_
 - [Damián Oyarzun](https://www.cr2.cl/eng/postdoctoral-researchers/#1529607354758-d633e1e8-8c1e), _now in the sustainability team at Codelco, Chile_ 
 - [Maryam Ilyas](http://pu.edu.pk/faculty/description/559/Dr-Maryam-Ilyas.html), _now faculty at the University of the Punjab_
+- [Peter Irvine](https://geosci.uchicago.edu/people/peter-irvine/), _now at the University of Chicago_ 
 - [Pete Spooner](https://scholar.google.co.uk/citations?user=1LeVRXcAAAAJ)
-- [Rehemat Bhatia](https://uk.linkedin.com/in/rehemat-bhatia-76bb7352), _now at NERC_
+- [Rehemat Bhatia](https://uk.linkedin.com/in/rehemat-bhatia-76bb7352), _now at EPSRC_
+- [Tom Keel](https://www.ceh.ac.uk/staff/tom-keel), _now a hydrological data analyst at the UK Centre for Ecology & Hydrology_
+- [Zhiyi Jiang](https://orcid.org/0000-0002-4607-8685) 
+
