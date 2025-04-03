@@ -63,7 +63,7 @@ permalink: /people/
                 <a title="GitHub" href="https://github.com/hheorton/"><i class="bi bi-github"></i></a>
                 <a title="Twitter" href="https://twitter.com/harryheorton"><i class="bi bi-twitter"></i></a>
             </span>
-            <br>Associate Lecturer 
+            <br>Associate Lecturer (Teaching) in Remote Sensing and Physical Geography 
             <br>Dept of Geography, University College London
         </td>
     </tr>
@@ -76,23 +76,8 @@ permalink: /people/
             <span class="profile-links">
                 <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/academic-staff/academic-staff/david-thornalley"><i class="bi bi-person-lines-fill"></i></a>
             </span>
-            <br>Professor of Palaeoceanography and Palaeoclimatology
+            <br>Professor of Ocean and Climate Science
             <br>Dept of Geography, University College London
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img alt="Michel" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
-        </td>
-        <td>
-            <strong>Dr Michel Tsamados</strong>
-            <span class="profile-links">
-                <a title="Profile &amp; contact" href="https://www.ucl.ac.uk/earth-sciences/people/academic/dr-michel-tsamados"><i class="bi bi-person-lines-fill"></i></a>
-                <a title="Website" href="https://www.micheltsamados.co.uk/"><i class="bi bi-globe2"></i></a>
-                <a title="Twitter" href="https://twitter.com/micheltsamados"><i class="bi bi-twitter"></i></a>
-            </span>
-            <br>Associate Professor in Polar Observation & Modelling 
-            <br>Dept of Earth Sciences, University College London
         </td>
     </tr>
     <tr>
@@ -102,9 +87,9 @@ permalink: /people/
         <td>
             <strong>Dr David Wilson</strong>
             <span class="profile-links">
-                <a title="Profile &amp; contact" href="https://www.ucl.ac.uk/earth-sciences/people/research-fellows/dr-david-wilson"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="Profile &amp; contact" href="https://www.ucl.ac.uk/earth-sciences/people/academic/dr-david-wilson"><i class="bi bi-person-lines-fill"></i></a>
             </span>
-            <br>Lecturer in ?????
+            <br>Lecturer & NERC Research Fellow
             <br>Dept of Earth Sciences, University College London
         </td>
     </tr>
@@ -113,12 +98,25 @@ permalink: /people/
             <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
         </td>
         <td>
+            <strong>Jack Wharton</strong>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/whartonj/"><i class="bi bi-person-lines-fill"></i></a>
+                <!-- <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a> -->
+                <!-- <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a> -->
+            </span>
+            <br>Postdoctoral Research Fellow
+            <br>Department of Geography, University College London
+        </td>
+    </tr>    <tr>
+        <td>
+            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+        </td>
+        <td>
             <strong>Dr Lucy Roberts</strong>
             <span class="profile-links">
-                <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/research-staff/charlotte-obrien"><i class="bi bi-person-lines-fill"></i></a>
-                <a title="Twitter" href="https://twitter.com/charlyob"><i class="bi bi-twitter"></i></a>
+                <a title="Profile &amp; contact" href="https://profiles.ucl.ac.uk/46068-lucy-roberts"><i class="bi bi-person-lines-fill"></i></a>
             </span>
-            <br>Lecturer in ????
+            <br>Lecturer in Environmental Change
             <br>Dept of Geography, University College London
         </td>
     </tr>
@@ -129,16 +127,30 @@ permalink: /people/
         <td>
             <strong>Dr Sahsa Montelli</strong>
             <span class="profile-links">
-                <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/research-staff/charlotte-obrien"><i class="bi bi-person-lines-fill"></i></a>
-                <a title="Twitter" href="https://twitter.com/charlyob"><i class="bi bi-twitter"></i></a>
+                <a title="Profile &amp; contact" href="https://profiles.ucl.ac.uk/96683-aleksandr-montelli"><i class="bi bi-person-lines-fill"></i></a>
             </span>
-            <br>Lecturer in ????
+            <br>Lecturer in Environmental Change
             <br>Dept of Geography, University College London
         </td>
     </tr>
 </table>
 
 ## PhD Students -- OUTDATED!
+
+<table class="team-list">
+    <tr>
+        <td>
+            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+        </td>
+        <td>
+            <strong>Eirini Papachristopoulou</strong>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/professional-services-staff/professional-services-staff/eirini-papachristopoulou"><i class="bi bi-person-lines-fill"></i></a>
+            </span>
+            <br>Dept of Geography, University College London
+        </td>
+    </tr>
+</table>
 
 <table class="team-list">
     <tr>
@@ -185,18 +197,7 @@ permalink: /people/
             <br>Department of Geography, University College London
         </td>
     </tr>
-    <tr>
-        <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
-        </td>
-        <td>
-            <strong>Eirini Papachristopoulou</strong>
-            <span class="profile-links">
-                <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/professional-services-staff/professional-services-staff/eirini-papachristopoulou"><i class="bi bi-person-lines-fill"></i></a>
-            </span>
-            <br>Dept of Geography, University College London
-        </td>
-    </tr>
+
     <tr>
         <td>
             <img alt="DanielP" src="{% link assets/team/DanielP.jpg %}">
@@ -212,21 +213,6 @@ permalink: /people/
             <br>Department of Geography, Royal Holloway University of London / Department of Geography, University College London (since Mar-2020)
         </td>
     </tr>
-    <tr>
-        <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
-        </td>
-        <td>
-            <strong>Jack Wharton</strong>
-            <span class="profile-links">
-                <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/whartonj/"><i class="bi bi-person-lines-fill"></i></a>
-                <!-- <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a> -->
-                <!-- <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a> -->
-            </span>
-            <br>Department of Geography, University College London
-            <br>Postdoc
-        </td>
-    </tr>
 </table>
 
 ## Occasional Members and Friends
@@ -234,12 +220,14 @@ permalink: /people/
 {:.lead}
 - [Helen Czerski](https://mecheng.ucl.ac.uk/people/profile/dr-helen-czerski/), _UCL Mech. Eng._
 - [Heather Ford](https://www.qmul.ac.uk/geog/staff/fordh.html), _Queen Mary, Geography_
+- [Michel Tsamados](https://www.ucl.ac.uk/earth-sciences/people/academic/dr-michel-tsamados), _UCL Earth Sci._
+
 
 
 ## Former members 
 
 {:.lead}
-- [Alice Carter-Champion](https://pure.au.dk/portal/en/persons/alice-rebecca-lou-carterchampion(889fb4f3-61af-4f51-a5db-0cd39ba940c5).html), _now postdoc at Aarhus University in Denmark_  
+<!-- - [Alice Carter-Champion](https://pure.au.dk/portal/en/persons/alice-rebecca-lou-carterchampion(889fb4f3-61af-4f51-a5db-0cd39ba940c5).html), _now postdoc at Aarhus University in Denmark_   -->
 - [Alex Koch](https://uk.linkedin.com/in/alexander-koch-24455755), _now head of geospatial research at Trove Research_  
 - [Anni Zhao](https://faculty.pku.edu.cn/yyhu/en/zhym/24958/list/index.htm), _now a postdoc at Peking University, Beijing_
 - [Daniel Parkes](https://www.linkedin.com/in/dr-dan-parkes-809a7788), _now an editor at PLOSone, after a stint looking at DEI of the London NERC DTP_
