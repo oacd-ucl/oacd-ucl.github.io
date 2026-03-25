@@ -34,6 +34,9 @@ defaults:
     values:
       layout: "project"
 
+exclude:
+  - CLAUDE.md
+
 # Simplify tables of contents
 kramdown:
   toc_levels: "2,3"
