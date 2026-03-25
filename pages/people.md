@@ -133,9 +133,24 @@ permalink: /people/
             <br>Dept of Geography, University College London
         </td>
     </tr>
+    <tr>
+        <td>
+            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+        </td>
+        <td>
+            <strong>Dr Charles Williams</strong>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://orcid.org/0000-0003-1791-2463"><i class="bi bi-person-lines-fill"></i></a>
+                <a title="Website" href="https://research-information.bris.ac.uk/en/persons/charles-j-r-williams"><i class="bi bi-globe2"></i></a>
+                <a title="Email" href="mailto:charles.williams@ucl.ac.uk"><i class="bi bi-envelope"></i></a>
+            </span>
+            <br>Senior Research Fellow in Climate Science
+            <br>Dept of Geography, University College London
+        </td>
+    </tr>
 </table>
 
-## PhD Students -- OUTDATED!
+## PhD Students
 
 <table class="team-list">
     <tr>
@@ -148,23 +163,6 @@ permalink: /people/
                 <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/professional-services-staff/professional-services-staff/eirini-papachristopoulou"><i class="bi bi-person-lines-fill"></i></a>
             </span>
             <br>Dept of Geography, University College London
-        </td>
-    </tr>
-</table>
-
-<table class="team-list">
-    <tr>
-        <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
-        </td>
-        <td>
-            <strong>Zhiyi Jiang</strong>
-            <span class="profile-links">
-                <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/research-students/zhiyi-jiang/"><i class="bi bi-person-lines-fill"></i></a>
-                <a title="Email" href="mailto:z.jiang.17@ucl.ac.uk"><i class="bi bi-envelope"></i></a>
-            </span>
-            <br>The Atlantic Meridional Overturning Circulation simulated during interglacials and its impact on climate
-            <br>Department of Geography, University College London (since Sep-2019)
         </td>
     </tr>
     <tr>
@@ -213,6 +211,19 @@ permalink: /people/
             <br>Department of Geography, Royal Holloway University of London / Department of Geography, University College London (since Mar-2020)
         </td>
     </tr>
+    <tr>
+        <td>
+            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+        </td>
+        <td>
+            <strong>Harry Grosvenor</strong>
+            <span class="profile-links">
+                <a title="Profile &amp; contact" href="https://orcid.org/0009-0008-0177-4338"><i class="bi bi-person-lines-fill"></i></a>
+            </span>
+            <br>Indian Ocean climate, especially of the Pliocene
+            <br>Queen Mary, University of London (since Mar-2024)
+        </td>
+    </tr>
 </table>
 
 ## Occasional Members and Friends
@@ -237,5 +248,5 @@ permalink: /people/
 - [Pete Spooner](https://scholar.google.co.uk/citations?user=1LeVRXcAAAAJ)
 - [Rehemat Bhatia](https://uk.linkedin.com/in/rehemat-bhatia-76bb7352), _now at EPSRC_
 - [Tom Keel](https://www.ceh.ac.uk/staff/tom-keel), _now a hydrological data analyst at the UK Centre for Ecology & Hydrology_
-- [Zhiyi Jiang](https://orcid.org/0000-0002-4607-8685) 
+- [Zhiyi Jiang](https://orcid.org/0000-0002-4607-8685), _now at Yangzhou Polytechnic University, Yangzhou, Jiangsu, China_
 
