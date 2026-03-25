@@ -22,10 +22,6 @@ collections:
     output: true
     permalink: /:collection/:name/
 
-# Social media links
-# (See default layout below)
-twitter:
-  card: summary_large_image
 
 defaults:
   - scope:

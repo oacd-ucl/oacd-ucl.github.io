@@ -16,7 +16,7 @@ permalink: /people/
             <strong>Dr Alice Carter-Champion</strong>
             <span class="profile-links">
                 <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/carterchampiona/"><i class="bi bi-person-lines-fill"></i></a>
-                <a title="Twitter" href="https://twitter.com/ACarter_Champs"><i class="bi bi-twitter"></i></a>
+
                 <a title="Email" href="mailto:Alice.Carter-Champion.16@ucl.ac.uk"><i class="bi bi-envelope"></i></a>
             </span>
             <br> Associate Lecturer 
@@ -33,7 +33,7 @@ permalink: /people/
                 <a title="Profile &amp; contact" href="https://www.geog.ucl.ac.uk/people/academic-staff/academic-staff/chris-brierley"><i class="bi bi-person-lines-fill"></i></a>
                 <a title="Website" href="https://www.past2future.org/"><i class="bi bi-globe2"></i></a>
                 <a title="GitHub" href="https://github.com/chrisbrierley/"><i class="bi bi-github"></i></a>
-                <a title="Twitter" href="https://twitter.com/cmbrierley"><i class="bi bi-twitter"></i></a>
+
             </span>
             <br>Professor of Climate Science 
             <br>Dept of Geography, University College London
@@ -61,7 +61,7 @@ permalink: /people/
             <span class="profile-links">
                 <a title="Profile &amp; contact" href="https://www.ucl.ac.uk/earth-sciences/people/research-staff/dr-harry-heorton"><i class="bi bi-person-lines-fill"></i></a>
                 <a title="GitHub" href="https://github.com/hheorton/"><i class="bi bi-github"></i></a>
-                <a title="Twitter" href="https://twitter.com/harryheorton"><i class="bi bi-twitter"></i></a>
+
             </span>
             <br>Associate Lecturer (Teaching) in Remote Sensing and Physical Geography 
             <br>Dept of Geography, University College London
@@ -102,7 +102,6 @@ permalink: /people/
             <span class="profile-links">
                 <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/whartonj/"><i class="bi bi-person-lines-fill"></i></a>
                 <!-- <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a> -->
-                <!-- <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a> -->
             </span>
             <br>Postdoctoral Research Fellow
             <br>Department of Geography, University College London
@@ -174,7 +173,6 @@ permalink: /people/
             <span class="profile-links">
                 <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/keelt/"><i class="bi bi-person-lines-fill"></i></a>
                 <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a>
-                <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a>
                 <a title="Email" href="mailto:thomas.keel.18@ucl.ac.uk"><i class="bi bi-envelope"></i></a>
             </span>
             <br>Definition and changes of jet-streams in a warming climate 
@@ -189,8 +187,7 @@ permalink: /people/
             <strong>Paul Minton</strong>
             <span class="profile-links">
                 <!-- <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/keelt/"><i class="bi bi-person-lines-fill"></i></a>
-                <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a>
-                <a title="Twitter" href="https://twitter.com/keel_thomas"><i class="bi bi-twitter"></i></a> -->
+                <a title="GitHub" href="https://github.com/thomasjkeel/"><i class="bi bi-github"></i></a> -->
             </span>
             <br>Department of Geography, University College London
         </td>
@@ -204,7 +201,7 @@ permalink: /people/
             <strong>Daniel Parkes</strong>
             <span class="profile-links">
                 <a title="Profile &amp; contact" href="https://london-nerc-dtp.org/profile/parkesd/"><i class="bi bi-person-lines-fill"></i></a>
-                <a title="Twitter" href="https://twitter.com/Quat_dan"><i class="bi bi-twitter"></i></a>
+
                 <a title="Email" href="mailto:daniel.parkes@rhul.ac.uk"><i class="bi bi-envelope"></i></a>
             </span>
             <br>On the cause and structure of Abrupt climatic events in MIS 11 c
