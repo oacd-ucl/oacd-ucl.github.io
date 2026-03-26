@@ -1,2 +1,2 @@
 # OACD Webpage
-## The Ocean, Atmosphere and Cryospheric Dynamics group at UCL
+## The Ocean, Atmosphere and Cryosphere Dynamics group at UCL

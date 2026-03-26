@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ocean, Atmosphere and Cryospheric Dynamics
+title: Ocean, Atmosphere and Cryosphere Dynamics
 menu_title: Home
 menu_icon: house-door
 ---
@@ -18,3 +18,5 @@ You can find out more about
 - the instruments we use and the data we’ve created under the [resources](./resources) tab
 - the teaching that we are involved with under the [teaching](./teaching) tab. We are heavily involved in UCL's [Climate Change MSc](https://www.geog.ucl.ac.uk/study/graduate-taught/msc-climate-change) programme and the [London NERC DTP](https://london-nerc-dtp.org/)
 - our collaborations and outreach under the [other](./other) tab.
+
+![OACD logo](/assets/shark_logo.png)
