@@ -69,7 +69,7 @@ permalink: /people/
     </tr>
     <tr>
         <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+            <img alt="DavidT" src="{% link assets/team/DavidT.jpg %}">
         </td>
         <td>
             <strong>Prof David Thornalley</strong>
@@ -82,7 +82,7 @@ permalink: /people/
     </tr>
     <tr>
         <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+            <img alt="DavidW" src="{% link assets/team/DavidW.jpg %}">
         </td>
         <td>
             <strong>Dr David Wilson</strong>
@@ -108,7 +108,7 @@ permalink: /people/
         </td>
     </tr>    <tr>
         <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+            <img alt="Lucy" src="{% link assets/team/Lucy.jpg %}">
         </td>
         <td>
             <strong>Dr Lucy Roberts</strong>
@@ -121,10 +121,10 @@ permalink: /people/
     </tr>
     <tr>
         <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+            <img alt="Sasha" src="{% link assets/team/Sasha.jpg %}">
         </td>
         <td>
-            <strong>Dr Sahsa Montelli</strong>
+            <strong>Dr Sasha Montelli</strong>
             <span class="profile-links">
                 <a title="Profile &amp; contact" href="https://profiles.ucl.ac.uk/96683-aleksandr-montelli"><i class="bi bi-person-lines-fill"></i></a>
             </span>
@@ -134,7 +134,7 @@ permalink: /people/
     </tr>
     <tr>
         <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+            <img alt="Charles" src="{% link assets/team/Charles.jpg %}">
         </td>
         <td>
             <strong>Dr Charles Williams</strong>
@@ -154,7 +154,7 @@ permalink: /people/
 <table class="team-list">
     <tr>
         <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+            <img alt="Eirini" src="{% link assets/team/Eirini.jpg %}">
         </td>
         <td>
             <strong>Eirini Papachristopoulou</strong>

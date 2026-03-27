@@ -2,7 +2,26 @@
   "permissions": {
     "allow": [
       "WebFetch(domain:orcid.org)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "WebFetch(domain:www.geog.ucl.ac.uk)",
+      "WebFetch(domain:www.ucl.ac.uk)",
+      "WebFetch(domain:london-nerc-dtp.org)",
+      "WebFetch(domain:profiles.ucl.ac.uk)",
+      "WebFetch(domain:research-information.bris.ac.uk)",
+      "Bash(curl -L -s \"https://profiles.ucl.ac.uk/96683-aleksandr-montelli\" | grep -o '<img[^>]*>' | grep -iv \"favicon\\\\|logo\\\\|icon\" | head -10)",
+      "Read(//tmp/claude-1000/-mnt-c-Users-ucfaccb-local-repos-oacd-ucl-github.io/9ca39e5f-86ca-4edf-b6fd-95b72e941a74/tasks/**)",
+      "Bash(/dev/null cat:*)",
+      "Bash(curl -L -s \"https://www.ucl.ac.uk/social-historical-sciences/geography/people/professional-services-and-technical-staff\" | grep -i \"fairman\\\\|papachristopoulou\\\\|eirini\" | head -10)",
+      "Bash(curl -L -s \"https://www.ucl.ac.uk/geography/people\" | grep -i \"fairman\\\\|papachristopoulou\\\\|eirini\" | head -10)",
+      "WebFetch(domain:www.google.com)",
+      "WebFetch(domain:www.bing.com)",
+      "WebFetch(domain:duckduckgo.com)",
+      "WebFetch(domain:html.duckduckgo.com)",
+      "WebFetch(domain:search.yahoo.com)",
+      "Bash(curl -L -s \"https://profiles.ucl.ac.uk/api/users/75179\" | python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\('hasThumbnail:', d.get\\('hasThumbnail'\\), 'name:', d.get\\('firstNameLastName'\\)\\)\")",
+      "Bash(TARGET=\"/mnt/c/Users/ucfaccb/local_repos/oacd-ucl.github.io/assets/team\"\n\ncurl -L -s \"https://profiles.ucl.ac.uk/api/users/75179/thumbnail\" | python3 -c \"\nimport sys, json, base64\ndata = json.load\\(sys.stdin\\)\nimg_data = base64.b64decode\\(data['thumbnail']\\)\nsys.stdout.buffer.write\\(img_data\\)\n\" > \"$TARGET/Eirini.jpg\"\necho \"Eirini size: $\\(wc -c < \"$TARGET/Eirini.jpg\"\\)\"\nfile \"$TARGET/Eirini.jpg\")",
+      "Bash(curl -L --insecure -s \"https://www.geog.ucl.ac.uk/people/professional-services-staff/professional-services-staff/david-fairman\" | grep -i \"sites/default/files\\\\|cdn\\\\|staff.*photo\\\\|profile.*image\" | head -10)",
+      "WebFetch(domain:www.qmul.ac.uk)"
     ]
   }
 }
