@@ -43,7 +43,7 @@ layout: default
     </div>
   </header>
   
-  {% if page.video_url %}
+  {% if page.video_url and page.video_thumbnail %}
     <div class="post-content">
       <a href="{{ page.video_url }}" title="Play video">
           <div class="video-container">
@@ -51,9 +51,8 @@ layout: default
             <!--<span class="play-button bi bi-play-fill"></span>-->
           </div>
       </a>
-      </div>
-      {{ content }}
     </div>
+    {{ content }}
   {% else %}
     {{ content }}
   {% endif %}

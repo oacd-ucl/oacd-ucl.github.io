@@ -8,7 +8,7 @@ peeps:
   - Zhiyi Jiang
   - Jack Wharton
 collaborators:
-  - Paula Moffaz-Sanchez
+  - Paola Moffa-Sanchez (Durham University)
 #github: cmip6moap/project06
 #video_time: 378
 #video_thumbnail: project06

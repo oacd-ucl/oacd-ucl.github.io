@@ -19,7 +19,7 @@ permalink: /other/
 
 {% include youtube.html video="wsaL6NG1bvY" title="Record Heat; is global warming advancing?" %}
 
-Roundtable is a panel discussion show broadcast on TRT World. **Chris Brierley** was part of a panel discussing the exceptional heat waves that occured in July 2018.
+Roundtable is a panel discussion show broadcast on TRT World. **Chris Brierley** was part of a panel discussing the exceptional heat waves that occurred in July 2018.
 
 </li>
 </ul>
