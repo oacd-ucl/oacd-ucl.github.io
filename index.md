@@ -6,11 +6,11 @@ menu_icon: house-door
 ---
 
 {:.secondary}
-# A collection of climate researchers based at University College London
+# A collection of London-based climate researchers
 
-The Ocean, Atmosphere and Cryosphere Dynamics (OACD) group at University College London researches how the climate system works. 
+The Ocean, Atmosphere and Cryosphere Dynamics (OACD) group researches how the climate system works, and meets regularly in the Dept of Geography at University College London. 
 
-It is led by a group of academics in the Departments of Geography and Earth Sciences at UCL. It combines research techniques at the cutting edge of laboratory-based geoscience and computer modelling. It has worked on topics stretching from the equator to the poles, and from millions of years ago to the coming centuries. We have particular expertise on the deep circulation of the North Atlantic and on multi-model ensembles of past climate change. 
+It is led by Chris and David (both academics in UCL Geography) for over a decade. It combines research techniques at the cutting edge of laboratory-based geoscience and computer modelling. It has worked on topics stretching from the equator to the poles, and from millions of years ago to the coming centuries. We have particular expertise on the deep circulation of the North Atlantic and on multi-model ensembles of past climate change. 
 
 You can find out more about 
 - our science under the [research](./projects) tab
