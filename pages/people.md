@@ -169,6 +169,7 @@ permalink: /people/
         <td>
             <strong>Isaac Foreman</strong>
             <span class="profile-links">
+                <a title="GitHub" href="https://github.com/isaacmforeman"><i class="bi bi-github"></i></a>
             </span>
             <br>Dept of Geography, University College London
         </td>

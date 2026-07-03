@@ -48,7 +48,9 @@
       "Bash(curl -s \"https://profiles.ucl.ac.uk/api/users/13327\")",
       "Bash(curl -s \"https://profiles.ucl.ac.uk/api/users/8412\")",
       "PowerShell($r = Invoke-RestMethod \"https://profiles.ucl.ac.uk/api/users/8412\"; \"$\\($r.title\\) $\\($r.firstName\\) $\\($r.lastName\\) | $\\($r.discoveryUrlId\\) | $\\($r.positions.department\\)\")",
-      "PowerShell($r = Invoke-RestMethod \"https://profiles.ucl.ac.uk/api/users/8412-richard-chandler\"; \"$\\($r.title\\) $\\($r.firstName\\) $\\($r.lastName\\) | $\\($r.positions.department\\)\")"
+      "PowerShell($r = Invoke-RestMethod \"https://profiles.ucl.ac.uk/api/users/8412-richard-chandler\"; \"$\\($r.title\\) $\\($r.firstName\\) $\\($r.lastName\\) | $\\($r.positions.department\\)\")",
+      "Bash(curl -sL -o assets/team/Isaac.jpg -A \"Mozilla/5.0\" \"https://github.com/isaacmforeman.png?size=240\")",
+      "Bash(curl -s \"https://api.github.com/users/isaacmforeman\")"
     ]
   }
 }
