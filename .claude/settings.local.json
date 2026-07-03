@@ -30,7 +30,11 @@
       "WebFetch(domain:kclpure.kcl.ac.uk)",
       "WebFetch(domain:www.bbk.ac.uk)",
       "Bash(curl -s \"https://profiles.ucl.ac.uk/101242-shixin-zhao\")",
-      "Bash(curl -sL -o assets/team/HannahW.png \"https://github.com/hannahwoodward.png?size=240\")"
+      "Bash(curl -sL -o assets/team/HannahW.png \"https://github.com/hannahwoodward.png?size=240\")",
+      "Bash(curl -s \"https://profiles.ucl.ac.uk/javascript/configuration.js\")",
+      "Bash(curl -s \"https://profiles.ucl.ac.uk/api/users/96578\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" \"https://profiles.ucl.ac.uk/api/v1/users/96578\")",
+      "Bash(curl -s \"https://profiles.ucl.ac.uk/api/users/96578/thumbnail\")"
     ]
   }
 }

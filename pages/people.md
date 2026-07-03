@@ -80,7 +80,7 @@ permalink: /people/
     </tr>
     <tr>
         <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+            <img alt="Jack" src="{% link assets/team/JackWharton.png %}">
         </td>
         <td>
             <strong>Jack Wharton</strong>
@@ -175,7 +175,7 @@ permalink: /people/
     </tr>
     <tr>
         <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+            <img alt="An" src="{% link assets/team/AnLiu.jpg %}">
         </td>
         <td>
             <strong>An Liu</strong>
@@ -187,7 +187,7 @@ permalink: /people/
     </tr>
     <tr>
         <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+            <img alt="Matt" src="{% link assets/team/MattPollock.webp %}">
         </td>
         <td>
             <strong>Matt Pollock</strong>
@@ -284,7 +284,7 @@ permalink: /people/
     </tr>
     <tr>
         <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+            <img alt="Shixin" src="{% link assets/team/ShixinZhao.jpg %}">
         </td>
         <td>
             <strong>Shixin Zhao</strong>
