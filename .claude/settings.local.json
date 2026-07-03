@@ -44,7 +44,11 @@
       "Bash(python -c \"import sys,json; d=json.load\\(sys.stdin\\); j=[x for x in d['jobs'] if x['name']=='deploy'][0]; print\\(j.get\\('check_run_url'\\)\\)\")",
       "Bash(curl -s \"https://api.github.com/repos/oacd-ucl/oacd-ucl.github.io/actions/runs/28647989202/jobs\" -o jobs.json)",
       "Bash(curl -s \"https://api.github.com/repos/oacd-ucl/oacd-ucl.github.io/check-runs/84959110575/annotations\")",
-      "Bash(curl -s \"https://api.github.com/repos/oacd-ucl/oacd-ucl.github.io/check-runs/84959110575\")"
+      "Bash(curl -s \"https://api.github.com/repos/oacd-ucl/oacd-ucl.github.io/check-runs/84959110575\")",
+      "Bash(curl -s \"https://profiles.ucl.ac.uk/api/users/13327\")",
+      "Bash(curl -s \"https://profiles.ucl.ac.uk/api/users/8412\")",
+      "PowerShell($r = Invoke-RestMethod \"https://profiles.ucl.ac.uk/api/users/8412\"; \"$\\($r.title\\) $\\($r.firstName\\) $\\($r.lastName\\) | $\\($r.discoveryUrlId\\) | $\\($r.positions.department\\)\")",
+      "PowerShell($r = Invoke-RestMethod \"https://profiles.ucl.ac.uk/api/users/8412-richard-chandler\"; \"$\\($r.title\\) $\\($r.firstName\\) $\\($r.lastName\\) | $\\($r.positions.department\\)\")"
     ]
   }
 }
