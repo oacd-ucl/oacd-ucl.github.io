@@ -332,6 +332,7 @@ permalink: /people/
 - [Clair Barnes](https://profiles.imperial.ac.uk/c.barnes22), _now a researcher at World Weather Attribution, Imperial College London_
 - [Daniel Parkes](https://www.linkedin.com/in/dr-dan-parkes-809a7788), _now an editor at PLOSone, after a stint looking at DEI of the London NERC DTP_
 - [Damián Oyarzun](https://www.cr2.cl/eng/postdoctoral-researchers/#1529607354758-d633e1e8-8c1e), _now in the sustainability team at Codelco, Chile_ 
+- [Friso de Graaf](https://www.qmul.ac.uk/geog/staff/phdstudents/profiles/fmdg.html), _now a consultant at Delta-H_
 - [Maryam Ilyas](http://pu.edu.pk/faculty/description/559/Dr-Maryam-Ilyas.html), _now faculty at the University of the Punjab_
 - [Paul Minton](https://www.ucl.ac.uk/earth-sciences/people/professional-services-staff/dr-paul-minton), _now at UCL Earth Sciences_
 - [Peter Irvine](https://geosci.uchicago.edu/people/peter-irvine/), _now at the University of Chicago_ 
